@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Use multiple currencies in Microsoft Dynamics 365 Business Central/set-up-an-additional-reporting-currency-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-9.8%" y="-7.1%" width="119.5%" height="114.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M29.6613191,14 L40.1294043,14 L26.1719574,0 L26.1719574,10.5 C26.1719574,12.425 27.7421702,14 29.6613191,14" id="path-4"></path>
+        <filter x="-7.2%" y="-7.1%" width="114.3%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-14.3%" y="-13.8%" width="128.6%" height="127.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0964956975 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-multiple-currencies-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -860.000000)">
+            <g id="Use-multiple-currencies-in-Microsoft-Dynamics-365-Business-Central/set-up-an-additional-reporting-currency-in-dynamics-365-business-central" transform="translate(50.000000, 860.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Report-Sheer" mask="url(#mask-2)">
+                        <g transform="translate(25.000000, 18.000000)">
+                            <g id="Group-12" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Paper-Certified" filter="url(#filter-3)">
+                                    <path d="M0.00174468085,3.5 L0.00174468085,52.5 C0.00174468085,54.425 1.57195745,56 3.49110638,56 L36.6400426,56 C38.5600638,56 40.1294043,54.425 40.1294043,52.5 L40.1294043,14 L26.1719574,0 L3.49110638,0 C1.57195745,0 0.00174468085,1.575 0.00174468085,3.5 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                    <g id="Fill-2">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use fill="#C4CBCD" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                </g>
+                                <g id="Graph" transform="translate(7.000000, 9.000000)" fill-rule="nonzero">
+                                    <rect id="Blue" fill="#55B7D9" x="0" y="5.25" width="4.31034483" height="15.75"></rect>
+                                    <rect id="Red" fill="#DF5142" x="6.89655172" y="0" width="4.31034483" height="21"></rect>
+                                    <rect id="Green" fill="#7CB65A" x="13.7931034" y="8.75" width="4.31034483" height="12.25"></rect>
+                                    <rect id="Green" fill="#F7CB64" x="20.6896552" y="13.125" width="4.31034483" height="7.875"></rect>
+                                </g>
+                            </g>
+                            <polygon id="Path-31" fill="#E6E6E6" fill-rule="nonzero" points="38 14 39.9937563 14 39.9870137 15.9908556"></polygon>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="7" y="36" width="25" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="7" y="44" width="25" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                    <circle id="Oval" fill="#01B6C3" mask="url(#mask-2)" cx="61.5" cy="66.5" r="16.5"></circle>
+                    <g id="Coin-Money" filter="url(#filter-6)" mask="url(#mask-2)">
+                        <g transform="translate(48.000000, 53.000000)">
+                            <path d="M14,0 C6.2680625,0 0,6.2680625 0,14 C0,21.7319375 6.2680625,28 14,28 C21.7319375,28 28,21.7319375 28,14 C28,6.2680625 21.7319375,0 14,0" id="Fill-21" fill="#F7CB64"></path>
+                            <path d="M8.40116092,26.7637282 C9.54168317,27.3481833 10.7759371,27.7713143 12.0768842,28.0041559 L21.7106007,2.37971004 C20.6329895,1.67426565 19.4483317,1.12301247 18.1857472,0.754074706 L8.76620379,26.1561311 L8.40116092,26.7637282 Z" id="Fill-22" fill="#F2BE53" transform="translate(15.055881, 14.379115) rotate(2.000000) translate(-15.055881, -14.379115) "></path>
+                            <path d="M14.1060492,28.0023575 C21.6415916,28.0023575 28,21.1083318 28,13.8406937 C28,9.92497765 26.305548,6.20400671 23.4909655,3.79338629 L13.7504422,27.9937217 C13.8689779,27.9966003 13.5963285,28.2411521 13.9588641,27.9810243" id="Fill-23" fill="#F2BE53"></path>
+                            <path d="M14,6 C9.58866667,6 6,9.58866667 6,14 C6,18.4113333 9.58866667,22 14,22 C18.4113333,22 22,18.4113333 22,14 C22,9.58866667 18.4113333,6 14,6 Z M14,25 C7.93428571,25 3,20.0653214 3,14 C3,7.93428571 7.93428571,3 14,3 C20.0657143,3 25,7.93428571 25,14 C25,20.0653214 20.0657143,25 14,25 L14,25 Z" id="Fill-24" fill="#EFB252"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">ADC Setup</label></br>
+                <label class="topic-overview-info">3 minutes - Unit 2 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>ADC Setup will default to the below on first access but can be changed</label>
+                    </br>
+                    </br>
+                    <img id=setupSmall src="./images/adc_setup.png" alt="ADC Setup" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>The List and System keys chosen here will be used across all connections to the ADC webpage as the shortcut key to invoke the related command</label>
+                    </br>
+                    <label><b>Note</b> the left arrow is ALWAYS the back key within the ADC webpage used to navigate to the previous menu / prompt</label>
+                    </br>
+                    <label><b>List Key</b> - when a field has a list of predefined values this key can be used to access that list (as well as clicking on the button show n on screen)</label>
+                    </br>
+                    <label><b>System Key</b> - when errors occur the system logs the error as well as additional information for trouble shooting the issue, pressing the sy stem key during a
+                        conversation will display additional information of the last error you user encountered</label>
+                    </br>
+                    <label><b>UCC Variable Length Delimiter</b> - when using UCC /GS128 barcodes the lot no. and serial number fields have a variable length (delimited by a FNC1
+                        character) - however that FNC1 char is not visible to Business Central. In order to user a lot no. or serial number within the middle of a UCC barcode (i.e. not
+                        the last field) the scanner should be configured to replace the FNC1 char with a human readable character (in this case the $ symbol). Doing so enables ADC to
+                        determine the end of the variable length data and parse those fields correctly. Note in most cases this is not required unles s you are using both serial numbers
+                        and lot no.s within the scanned barcodes, if only using one of those fields this setup can be bypassed if the lot /serial is the last data field within the barcode</label>
+                    <label>Assign the user the required level of permissions, note that all posting / registering processed via the scanner is run as this user and not the user logging into
+                        the device. As the ADC Conversations are configured to perform specific activities within Business Central giving this user elevated permissions will not
+                        result in the scanners from performing additional activities or viewing additional data.</label>
+                    </br>
+                    <label><b>System Indicator</b> - This text is used to give a visual indication to users as to which database the ADC is connected to. Simple text or html markup can be entered here i.e. <span style="color:royalblue;">&lt;span style="color:red"&gt;*** UAT ***</span> will render as shown below</label>
+                    </br>
+                    <img id=sysIndicatorSmall src="./images/adc_system_indicator.png" alt="System Indicator" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Next unit: ADC Menu Setup</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./adc_setup_api_user.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = './adc_setup_menu.html'">Continue ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

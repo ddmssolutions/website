@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">ADC Menu Setup</label></br>
+                <label class="topic-overview-info">7 minutes - Unit 3 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>From within ADC Setup click on the <b>Menu</b> action to open the menu configuration. This configuration will determine the menu that is seen within the ADC Modern Client</label>
+                    </br>
+                    </br>
+                    <img id=menuSmall src="./images/adc_menu.png" alt="ADC Menu" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>The published Conversation Table ID can be typed or selected using the lookup. This will default in a description however it can be overtyped/renamed as required</label>
+                    </br>
+                    <label>Sub menus can be created by typing a description into a new line and leaving the Conversation Table ID blank, use the Move Line actions to indent and move rows into and around within them</label>
+                    </br>
+                    <label>The Icon Filename is used to specify the image that is displayed along with the menu. This is not required and should refer to an actual filena me placed within the Images folder of the ADC website</label>
+                    </br>
+                    </br>
+                    <img id=menuSampleSmall src="./images/create_adc_menu.gif" alt="ADC Menu Creation" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Next unit: ADC Transaction Setup</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./adc_setup_setup.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = './adc_setup_transaction_setup.html'">Continue ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

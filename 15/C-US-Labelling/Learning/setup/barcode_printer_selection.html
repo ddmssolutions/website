@@ -1,0 +1,177 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"><a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">Labelling</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">Barcode Printer Selection</label></br>
+                <label class="topic-overview-info">5 minutes - Unit 4 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>Barcode Printer Selection is used to direct user prints automatically to the correct printer</label>
+                    </br>
+                    </br>
+                    <label>Printer Selection is configured using a hierarchy combination or Location, Table, User, and Label. The setup will traverse this setup looking for the most specific combination of printer selection (i.e. a printer for a particular location, table, user, and label) down to the most generic setup.</label>
+                    </br>
+
+                    </br>
+                    <img id=bCodePrintersSelSmall src="./images/printer_selection.png" alt="Barcode Printer Selection" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <label>The selection hierarchy is as follows:</label>
+                    <table>
+                        <tr>
+                            <th>Location</th>
+                            <th>Table</th>
+                            <th>User</th>
+                            <th>Label</th>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                    </table>
+
+                    </br>
+                    <label>1. Search for <i>Barcode Printer Selection</i></label>
+                    <img src=".//images/printer_selection_search.png" class="img-small img-static">
+                    </br>
+                    <label>2. Click <i>New</i> and populate <b>Printer ID</b>. All remaining fields are optional, leaving one of those fields blank indicates 'All' (i.e. A blank Location Code will cover all locations)</label>
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Module completed</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./label_mapping.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = '../index.html'">Back to Modules ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

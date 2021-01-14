@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">ADC OData User Setup</label></br>
+                <label class="topic-overview-info">10 minutes - Unit 1 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>The ADC Modern Client communicates with Business Central via REST API calls using a specific user. This user should be configured using Business Central Password Authentication, have a Web Service Access Key generated, and be granted the appropriate Permission Sets as to perform the various tasks that ADC will help automate</label>
+                    </br>
+                    </br>
+                    <label>Search for <i>Users</i>, open the page and click <i>New</i>. Populate the fields:</label>
+                    <li>User Name</li>
+                    <li>Full Name - this is optional</li>
+                    <li>Click Assist Edit on the Business Central Password Authentication <i>Password</i> field and enter a password</li>
+                    <li>Disable the <i>User must change password at next login</i></li>
+                    <li>Click the Assist Edit on the <i>Web Serivce Access Key</i>, optionally choose a <i>Key Expiration Date</i></li>
+                    <li>Assign appropriate <i>Permission Sets</i></li>
+                    <!-- <img id=createUsersSmall src="../../../../images//ADC Consumption (Food).svg" style="background-color: white;width: 50%;margin-left: 30px;"> -->
+                </br>
+                    <img id=createUsersSmall src="./images/create_adc_user.gif" alt="Users" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>If you specify a Key Expiration Date each decive will need to be updated with the new key upon expiration of the old</label>
+                    </br>
+                    </br>
+                    <label>Assign the user the required level of permissions, note that all posting / registering processed via the scanner is run as this user and not the user logging into
+                        the device. As the ADC Conversations are configured to perform specific activities within Business Central giving this user elevated permissions will not
+                        result in the scanners from performing additional activities or viewing additional data.</label>
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Next unit: ADC Setup</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./topic_overview.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = './adc_setup_setup.html'">Continue ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

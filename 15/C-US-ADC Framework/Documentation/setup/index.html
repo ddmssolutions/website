@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">ADC Framework</a> / <a href="">Setup</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Setup</h2>
+            </br>
+            <h4>System Indicator</h4>
+            <p>When populate this test will appear on the upper part of ADC Modern Client. It can be used to help indicate to users if they are in the test, live, development... systems. Simple HTML markup language can be used here as well as plain text</p>
+            <h4>List Key</h4>
+            <p>The <i>List Key</i> is used to access the various lists of possible data values within conversation (i.e. List of Locations, List of Pick Notes...)</p>
+            <h4>Error Key</h4>
+            <p>Errors shown to users on the devices are designed to be short and generic (i.e. Invalid Location), in the background however more detailed information is logged. To access that extra information the user should press this <i>Error Key</i> to access that logged error on the device without having to access Business Central via the modern client</p>
+            <h4>UCC Variable Length Delimiter</h4>
+            <p>UCC / GS128 Barcodes that contain multiple variable length fields (i.e. Lot No. and Serial No.) use a FNC1 character to denote the end of the field. When in use the devices barcode scanners must be configured to replace the FNC1 character with an ASCII char so that it is readable & parsable by Business Central. Select a non used character (i.e. $ # Þ...) here and within the devices configuration so that information can be parsed without issue</p>
+        </br>
+        <div class="cleared"></div>
+    </div>
+</div>
+<div class="seperator"></div>
+</body>
+
+
+</html>

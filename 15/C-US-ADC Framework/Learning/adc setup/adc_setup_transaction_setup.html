@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">ADC Transaction Setup</label></br>
+                <label class="topic-overview-info">4 minutes - Unit 4 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>Once you have setup an ADC Menu you can further configure those particular menu items (transactions) as to customize their functionality and adjust the flow of the conversations</label>
+                    </br>
+                    </br>
+                    <label>Open ADC Setup and click on the <b>Transaction Setup</b> action</label>
+                    </br>
+                    </br>
+                    <img id=openTransSetupSmall src="./images/adc_transaction_setup.png" alt="Open Transaction Setup" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Select the ADC Transaction to be configured in the upper section of the screen and then adjust the configuration of within the lower section</label>
+                    </br>
+                    </br>
+                    <img id=openTransConfigSmall src="./images/adc_transaction_setup_sample.png" alt="Sample Transaction Setup" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label><b>Note</b> - if you change and ADC Transactions setup, you must close the Business Central setup page, and within the ADC Modern Client navigate back to the Main Menu in order to pickup those new configuration changes</label>
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Module Completed</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./adc_setup_menu.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = '../index.html'">Modules ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

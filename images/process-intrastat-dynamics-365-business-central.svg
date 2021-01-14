@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Process financial periodic activities in Microsoft Dynamics 365 Business Central/process-intrastat-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-7.4%" y="-7.4%" width="116.7%" height="114.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0962904283 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-financial-periodic-activities-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -460.000000)">
+            <g id="Process-financial-periodic-activities-in-Microsoft-Dynamics-365-Business-Central/process-intrastat-in-dynamics-365-business-central" transform="translate(50.000000, 460.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Group-57" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(21.000000, 21.000000)">
+                            <path d="M3.375,1.6875 L3.375,50.625 L52.3125,50.625 C53.244,50.625 54,51.3801562 54,52.3125 C54,53.244 53.244,54 52.3125,54 L1.6875,54 C0.75515625,54 0,53.244 0,52.3125 L0,1.6875 C0,0.75515625 0.75515625,0 1.6875,0 C2.619,0 3.375,0.75515625 3.375,1.6875" id="Fill-40" fill="#546670"></path>
+                            <path d="M52.3125,15.1875 L45.5625,15.1875 C44.6301562,15.1875 43.875,15.9426562 43.875,16.875 L43.875,47.25 C43.875,48.1815 44.6301562,48.9375 45.5625,48.9375 L52.3125,48.9375 C53.244,48.9375 54,48.1815 54,47.25 L54,16.875 C54,15.9426562 53.244,15.1875 52.3125,15.1875" id="Fill-41" fill="#EFB252"></path>
+                            <path d="M25.3125,15.1875 L18.5625,15.1875 C17.6301562,15.1875 16.875,15.9426562 16.875,16.875 L16.875,47.25 C16.875,48.1815 17.6301562,48.9375 18.5625,48.9375 L25.3125,48.9375 C26.244,48.9375 27,48.1815 27,47.25 L27,16.875 C27,15.9426562 26.244,15.1875 25.3125,15.1875" id="Fill-42" fill="#EFB252"></path>
+                            <path d="M40.5,30.375 L33.75,30.375 C32.8176562,30.375 32.0625,31.1301562 32.0625,32.0625 L32.0625,47.25 C32.0625,48.1815 32.8176562,48.9375 33.75,48.9375 L40.5,48.9375 C41.4315,48.9375 42.1875,48.1815 42.1875,47.25 L42.1875,32.0625 C42.1875,31.1301562 41.4315,30.375 40.5,30.375" id="Fill-43" fill="#DF5142"></path>
+                            <path d="M13.5,30.375 L6.75,30.375 C5.81765625,30.375 5.0625,31.1301562 5.0625,32.0625 L5.0625,47.25 C5.0625,48.1815 5.81765625,48.9375 6.75,48.9375 L13.5,48.9375 C14.4315,48.9375 15.1875,48.1815 15.1875,47.25 L15.1875,32.0625 C15.1875,31.1301562 14.4315,30.375 13.5,30.375" id="Fill-44" fill="#DF5142"></path>
+                            <path d="M52.3125,15.1875 L48.9375,15.1875 L48.9375,48.9375 L52.3125,48.9375 C53.244,48.9375 54,48.1815 54,47.25 L54,16.875 C54,15.9435 53.244,15.1875 52.3125,15.1875" id="Fill-45" fill="#CC9547"></path>
+                            <path d="M40.5,30.375 L37.125,30.375 L37.125,48.9375 L40.5,48.9375 C41.4315,48.9375 42.1875,48.1815 42.1875,47.25 L42.1875,32.0625 C42.1875,31.131 41.4315,30.375 40.5,30.375" id="Fill-46" fill="#C2423D"></path>
+                            <path d="M25.3125,15.1875 L21.9375,15.1875 L21.9375,48.9375 L25.3125,48.9375 C26.244,48.9375 27,48.1815 27,47.25 L27,16.875 C27,15.9435 26.244,15.1875 25.3125,15.1875" id="Fill-47" fill="#CC9547"></path>
+                            <path d="M13.5,30.375 L10.125,30.375 L10.125,48.9375 L13.5,48.9375 C14.4315,48.9375 15.1875,48.1815 15.1875,47.25 L15.1875,32.0625 C15.1875,31.131 14.4315,30.375 13.5,30.375" id="Fill-48" fill="#C2423D"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

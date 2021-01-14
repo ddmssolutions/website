@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+            </div>
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">Labelling</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Label Mapping</h2>
+            <p>Label mapping allows you to configure the data that is sent to the printed (via API, PAS, or DAT files). At minimum the Label Data table (14142141) must be sent with at least one fiel, however mulitple fields from that table or related tables can also be sent</p>
+            </br>
+            <h4>Node Name</h4>
+            <p>For Field type Data Sources this Node Name is wrote before the value of the Data Source</p>
+            </br>
+            <h4>Data Source Type</h4>
+            <p>Informational</p>
+            </br>
+            <h4>Data Source</h4>
+            <p>The Field or Table name from which the data is coming</p>
+            </br>
+            <h4>Link to Table</h4>
+            <p>Wehn Data Source Type is table this shows the parent table to which this node is linked</p>
+            </br>
+            <h4>Table Relation</h4>
+            <p>Used to specify how a sub table is linked to its parent in order to retrieve a single record (and thus data) for exporting</p>
+            </br>
+            <h4>Data Type</h4>
+            <p>Informational purposes relating to the field being exported</p>
+            </br>
+            <h4>Format String</h4>
+            <p>If populated the data retried from Business Central will be formatted using this string before being sent. This string uses the standard Business Central <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-format-property">Format Property</a></p>
+            </br>
+            <div class="cleared"></div>
+        </div>
+    </div>
+    <div class="seperator"></div>
+</body>
+
+</html>

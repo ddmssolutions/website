@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Sell items and services in Microsoft Dynamics 365 Business Central/set-up-discounts-for-your-customers-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <path d="M2.0996122,32.3726613 L26.472319,7.80606924 C28.0448348,6.22104405 30.2081851,5.36529122 32.4394747,5.44565157 L48.9353152,6.03975261 C51.5060653,6.1323387 53.5870589,8.16040905 53.7458239,10.7279218 L54.8336855,28.3205745 C54.976225,30.6256899 54.1156166,32.879937 52.4731801,34.5035986 L28.157773,58.5410544 C26.9823181,59.7030727 25.0883988,59.6954069 23.9223889,58.5239113 L2.10302716,36.6018971 C0.939417434,35.432813 0.937891979,33.543623 2.0996122,32.3726613 Z" id="path-3"></path>
+        <filter x="-3.2%" y="-1.6%" width="104.7%" height="104.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M22.002877,21.8642489 L38.976684,38.8380559 C39.7578819,39.6192538 39.7578819,40.8858258 38.976684,41.6670237 L28.3680547,52.2756531 C27.5868568,53.056851 26.3202847,53.056851 25.5390868,52.2756531 L8.56527986,35.3018461 C7.78408197,34.5206482 7.78408197,33.2540762 8.56527986,32.4728783 L19.1739092,21.8642489 C19.9551071,21.083051 21.2216792,21.083051 22.002877,21.8642489 Z" id="path-5"></path>
+        <filter x="-9.5%" y="-3.2%" width="112.7%" height="112.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M25,13.5 C25,19.8506538 19.8515385,25 13.5,25 C7.14934615,25 2,19.8506538 2,13.5 C2,7.14934615 7.14934615,2 13.5,2 C19.8515385,2 25,7.14934615 25,13.5" id="path-7"></path>
+        <filter x="-4.3%" y="-4.3%" width="108.7%" height="117.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sell-items-and-services-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -860.000000)">
+            <g id="Sell-items-and-services-in-Microsoft-Dynamics-365-Business-Central/set-up-discounts-for-your-customers-in-dynamics-365-business-central" transform="translate(50.000000, 860.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Sales-Management/sales-management" mask="url(#mask-2)">
+                        <g transform="translate(4.000000, 9.000000)" id="Mask">
+                            <g transform="translate(0.500000, 0.000000)">
+                                <g id="Price-Tag" transform="translate(42.779960, 42.984074) rotate(-45.000000) translate(-42.779960, -42.984074) translate(12.779960, 12.484074)" fill-rule="nonzero">
+                                    <g id="Path-28">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use fill="#EFB252" xlink:href="#path-3"></use>
+                                    </g>
+                                    <circle id="Oval" fill="#F7CB64" cx="43.443299" cy="16.8453608" r="7.09278351"></circle>
+                                    <circle id="Oval" fill="#FFFFFF" cx="43.443299" cy="16.8453608" r="4.43298969"></circle>
+                                    <path d="M27.3461553,7.09278351 L24.2158639,58.6274969 L1.91149589,36.387896 C0.738220789,35.2180278 0.73545892,33.3185349 1.90532709,32.1452598 C1.91178667,32.1387814 1.91827585,32.1323326 1.92479443,32.1259135 L27.3461553,7.09278351 Z" id="Path-29" fill="#F7CB64"></path>
+                                    <g id="Rectangle">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                        <use fill="#E6E6E6" xlink:href="#path-5"></use>
+                                    </g>
+                                    <path d="M26.0351515,25.9055581 L24.497857,51.2316783 L8.56545059,35.3092121 C7.78415832,34.5284073 7.78376316,33.2620774 8.56456798,32.4807851 C8.56508863,32.4802641 8.56560957,32.4797434 8.5661308,32.479223 L19.1993427,21.862857 C19.9810103,21.0824278 21.2473398,21.0834317 22.027769,21.8650993 C22.0293324,21.8666652 22.0308932,21.8682336 22.0324514,21.8698047 L26.0351515,25.9055581 Z" id="Path-30" fill="#FFFFFF"></path>
+                                    <g id="Group-9" transform="translate(39.896907, 0.000000)">
+                                        <path d="M10.2559537,-1.05432195 L10.3089729,-1.05432195 C11.4135424,-1.05432195 12.3089729,-0.158891449 12.3089729,0.945678051 L12.3089729,19.490597 C12.3089729,20.5951665 11.4135424,21.490597 10.3089729,21.490597 L10.2559537,21.490597 C9.15138424,21.490597 8.25595374,20.5951665 8.25595374,19.490597 L8.25595374,0.945678051 C8.25595374,-0.158891449 9.15138424,-1.05432195 10.2559537,-1.05432195 Z" id="Rectangle" fill="#546670" transform="translate(10.282463, 10.218138) rotate(-315.000000) translate(-10.282463, -10.218138) "></path>
+                                        <path d="M9.98568785,-0.337842619 C11.1048982,-0.337842619 12.0121974,0.569456622 12.0121974,1.68866695 L12.0121974,20.1805668 C12.0121974,21.2997771 11.1048982,22.2070764 9.98568785,22.2070764 L9.98568785,22.2070764 L9.98568785,-0.337842619 Z" id="Rectangle" fill="#30404D" transform="translate(10.998943, 10.934617) rotate(-315.000000) translate(-10.998943, -10.934617) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Plus-Mark" mask="url(#mask-2)">
+                        <g transform="translate(50.000000, 56.000000)">
+                            <circle id="Oval" fill="#01B6C3" fill-rule="nonzero" cx="13" cy="13" r="13"></circle>
+                            <g id="Fill-10" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M68.5969894,66.3905163 C68.0596418,65.8698279 67.1879142,65.8698279 66.6512547,66.3905163 L62.115794,70.7853661 L60.4776065,69.2119672 C60.438389,69.1586316 60.3984836,69.1052961 60.3482578,69.0572941 C59.8109102,68.5366057 58.9391826,68.5366057 58.4025231,69.0572941 C57.8699917,69.5713155 57.8665516,70.4046835 58.3880746,70.9267053 L58.371562,70.9427059 L61.1470548,73.6094837 C61.6844023,74.1301721 62.5561299,74.1301721 63.0934775,73.6094837 L68.5928612,68.2792616 C68.5942373,68.2785949 68.5956133,68.2772616 68.5969894,68.2759282 C69.1343369,67.7552398 69.1343369,66.9098712 68.5969894,66.3905163" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

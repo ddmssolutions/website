@@ -1,0 +1,83 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+            </div>
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">Food</a> / <a href="">Scales</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Scales</h2>
+            </br>
+            <label>This table has been created to handle the integration to scale machines</label>
+        </br>
+            <h4>Code</h4>
+            <p>Unique identifier</p>
+            </br>
+            <h4>Description</h4>
+            <p>Text to give a descriptive name to the scale record</p>
+            </br>
+            <h4>Unit of Measure</h4>
+            <p>The Unit of Measure that this scale is configure to weigh in (i.e. LBs, KG, Grams...)</p>
+            </br>
+            <h4>Scale Codeunit ID</h4>
+            <p>This identifies a codeunit object that has been designed to connect to the physical scale and return the weight upon that scale. This codeunit should have a TableNo property of "Scale.COL.US" and contain and OnRun trigger. Requests for the weight of a scale will run this codeunit (passing the scale record) and expect the "Weight.COL.US" column to be populated with the scales weight reading</p>
+            </br>
+            <h4>Type</h4>
+            <p>Select from <i>Serial Port, IP Address, API</i>, the selection here determines the remainder of the fields that are visible and denotes the connection method to the scale (note the Scale Codeunit ID is responsible for the actual connection). The recommend connection method for ensuring future compatability is API</p>
+            </br>
+            <h4>Port Name</h4>
+            <p>The port number that maps to or represents the physical port (Type = Serial Port)</p>
+            </br>
+            <h4>Baud Rate</h4>
+            <p>The data rate in bits per second (Type = Serial Port)</p>
+            </br>
+            <h4>Parity</h4>
+            <p>Parity is a method of detecting errors in transmission (Type = Serial Port)</p>
+            </br>
+            <h4>Data Bits</h4>
+            <p>The number of data bits in each character (Type = Serial Port)</p>
+            </br>
+            <h4>Stop Bits</h4>
+            <p>Stop bits sent at the end of every character (Type = Serial Port)</p>
+            </br>
+            <h4>API URL</h4>
+            <p>The http (or https) URL of the Rest API url service that returns the weight from the scale (Type = API)</p>
+            </br>
+            <h4>API Key</h4>
+            <p>This is the username and password (base 64 encoded) used to connect to the RestAPI url (Type = API)</p>
+            </br>
+            <h4>Server IP Address</h4>
+            <p>The IP address to be connected to (Type = IP Address)</p>
+            </br>
+            <h4>Server Port</h4>
+            <p>The port number at the IP address (Type = IP Address)</p>
+            </br>
+            <h4>Start Char</h4>
+            <p>The numeric char value that proceeds a weight reading (i.e. STX (Start of Header char) = 1) </p>
+            </br>
+            <h4>End Char</h4>
+            <p>The numeric char value that terminates a weight reading (i.e. ETX (End of Header char) = 3) </p>
+            </br>
+            <h4>Data Retrieval Method</h4>
+            <p>Two options are availble <i>Request Data</i> - Business Central has to request the weight on demand (i.e. when a user presses and action button "Get Weight"). <i>Data us Pushed</i> - the weight is continually broadcast or broadcast by interaction outside of Business Central that triggers the data to be sent. Business Central will be configured to watch for that broadcasted data and perform an action when it is received (i.e. An external button (physical button connected to the scale) is pressed, which in turn sends the data out - this is then caught by Business Central and then processed) </p>
+            </br>            
+            <div class="cleared"></div>
+        </div>
+    </div>
+    <div class="seperator"></div>
+</body>
+
+</html>

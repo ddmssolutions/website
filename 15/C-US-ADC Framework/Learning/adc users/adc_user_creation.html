@@ -1,0 +1,79 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">Creating ADC Users</label></br>
+                <label class="topic-overview-info">3 minutes - Unit 1 of 1</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>User access to ADC is configured through Business Central, each ADC User should have a matching ISV Device CAL license as well</label>
+                    </br>
+                    </br>
+                    <label>Search for <i>ADC Users</i>, open the page and click <i>New</i></label>
+                    <img id=createUsersSmall src="./images/user_search.png" alt="ADC Users" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Populate <b>Session ID</b>, <b>User ID</b>, and <b>Password</b></label>
+                    </br>
+                    </br>
+                    <!-- <img src="./images/barcode_printers.png" style="max-width: 100%; padding-right: 20px;"> -->
+                    <img id=createUsersSmall src="./images/Creating Users.gif" alt="Creating ADC Users" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <li>Session ID - the unique user name for use on the external device</li>
+                    <li>User ID - The purpose of this User ID is to map the ADC User to an Business Central login for two purposes:</li>
+                    <p style="text-indent: 30px;">When any posting occurs via the ADC Conversations (i.e. posting a picking note) the system will flag the creatied entries and registers as this User ID</p>
+                    <p style="text-indent: 30px;">When filtering locations and warehouse employees this user will be used </p>
+                    <p style="text-indent: 30px;">
+                        <b>Note #1</b>: this does NOT have to map one-to-one or to the same user as the ADC user, additionally the user does not that user have to be enabled, nor have any permissions assigned</p>
+                    <p style="text-indent: 40px;">i.e. A single Business Central login can be created for the warehouse employees "WHSE SCANNER" which is disabled as to not allow logon to the Business Central modern client. That user will be configured in warehouse employees as to
+                        give access to the various locations. All ADC Users are then configured with WHSE SCANNER as their User ID, as such all ledger entries, registers, posted documents will have the "created by" user as WHSE SCANNER. If more tracability
+                        is required as to which user posted which document than additional Business Central users should be created and mapped to their appropriate ADC Logins.</p>
+                    <p style="text-indent: 30px;"><b>Note #2</b>: When posting the permissions of this mapped user are NOT used - the OData User (configured when connecting the ADC Modern ADC Client) requires all of the permissions to post / register
+                    </p>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Module completed</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./topic_overview.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = '../index.html'">Modules ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

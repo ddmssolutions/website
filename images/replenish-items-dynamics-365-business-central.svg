@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="118px" viewBox="0 0 100 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Replenish items in Microsoft Dynamics 365 Business Central/replenish-items-in-microsoft-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7425,1.49663266 C44.3745,0.498877554 46.1865,0 48,0 C49.8135,0 51.627,0.498877554 53.256,1.49663266 L90.591,24.3316189 C93.933,26.3773408 96,30.2031485 96,34.3529027 L96,79.6470973 C96,83.7952317 93.933,87.6242789 90.591,89.6683811 L53.256,112.504987 C51.627,113.501122 49.8135,114 48,114 C46.1865,114 44.3745,113.501122 42.7425,112.504987 L5.409,89.6683811 C2.0655,87.6242789 0,83.7952317 0,79.6470973 L0,34.3529027 C0,30.2031485 2.0655,26.3773408 5.409,24.3316189 L42.7425,1.49663266 Z" id="path-1"></path>
+        <filter x="-5.2%" y="-9.3%" width="110.4%" height="118.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-11.4%" y="-13.6%" width="122.9%" height="129.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0992980072 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Replenish-items-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -50.000000)">
+            <g id="Replenish-items-in-Microsoft-Dynamics-365-Business-Central/replenish-items-in-microsoft-dynamics-365-business-central" transform="translate(50.000000, 50.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Trophy-1" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Group-61" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(46.976053, 57.157013) rotate(-11.000000) translate(-46.976053, -57.157013) translate(8.476053, 24.750752)">
+                            <path d="M18.7407108,7.63653842 C23.6074954,3.71183339 29.6637656,1.14110811 36.3760023,0.557379512 C54.2736802,-0.998585791 70.0508862,12.169133 71.6154875,29.968023 C72.1645556,36.2237767 70.8856641,42.2195585 68.2180676,47.4325255" id="Stroke-2" stroke="#FFFFFF" stroke-width="4" fill="none"></path>
+                            <path d="M57.8990773,58.732143 C53.4175238,61.7504252 48.0995694,63.7099781 42.291445,64.2065249 C24.3798196,65.7380201 8.59031866,52.7773853 7.02449812,35.2584119 C6.58781897,30.3680908 7.30556777,25.6385292 8.95697353,21.3294154" id="Stroke-4" stroke="#FFFFFF" stroke-width="4" fill="none"></path>
+                            <polygon id="Rectangle" stroke="none" fill="#FFFFFF" fill-rule="nonzero" transform="translate(9.130561, 21.459787) rotate(-21.000000) translate(-9.130561, -21.459787) " points="2.32252126 16.8722209 15.9386001 14.7721134 13.7103442 28.1474608"></polygon>
+                            <polygon id="Rectangle" stroke="none" fill="#FFFFFF" fill-rule="nonzero" transform="translate(68.075648, 47.408255) rotate(-194.000000) translate(-68.075648, -47.408255) " points="61.2602282 42.8404485 74.891067 40.7251005 72.6437772 54.0914098"></polygon>
+                        </g>
+                    </g>
+                    <g id="Paper-Box" filter="url(#filter-4)" mask="url(#mask-2)">
+                        <g transform="translate(30.476053, 41.857519)">
+                            <path d="M35,4.19525692 L0,4.19525692 L3.50054688,0.995256919 C3.98179688,0.555256919 4.86773438,0.195256919 5.46929688,0.195256919 L29.5317969,0.195256919 C30.1333594,0.195256919 31.0192969,0.555256919 31.5005469,0.995256919 L35,4.19525692" id="Fill-680" fill="#CC9547"></path>
+                            <path d="M34.9994531,28.1552569 C34.9994531,28.7272569 34.5072733,29.1952569 33.9057202,29.1952569 L1.09373291,29.1952569 C0.491632943,29.1952569 0,28.7272569 0,28.1552569 L0.000546866455,3.19525692 L35,3.19525692 L34.9994531,28.1552569" id="Fill-681" fill="#F2BE53"></path>
+                            <polyline id="Fill-682" fill="#EFB252" points="25 4.19525692 10 4.19525692 11.875 0.195256919 23.125 0.195256919 25 4.19525692"></polyline>
+                            <path d="M33.9057202,29.1952569 C34.5072733,29.1952569 34.9994531,28.7077569 34.9994531,28.1119236 L35,3.19525692 L19.1403259,3.19525692 C18.2341682,3.19525692 17.4997266,3.92109025 17.4997266,4.82025692 L17.4997266,26.4869236 C17.4997266,27.3860903 16.7652849,28.1119236 15.8591272,28.1119236 L0,28.1119236 C0,28.7077569 0.491632943,29.1952569 1.09373291,29.1952569 L33.9057202,29.1952569" id="Fill-683" fill="#EFB252"></path>
+                            <path d="M10,4.19525692 L10,13.8354847 C10,14.1410827 10.225,14.2410966 10.5,14.0577378 L12,13.0575989 C12.275,12.8742401 12.725,12.8742401 13,13.0575989 L14.5,14.0577378 C14.775,14.2410966 15.225,14.2410966 15.5,14.0577378 L17,13.0575989 C17.275,12.8742401 17.725,12.8742401 18,13.0575989 L19.5,14.0577378 C19.775,14.2410966 20.225,14.2410966 20.5,14.0577378 L22,13.0575989 C22.275,12.8742401 22.725,12.8742401 23,13.0575989 L24.5,14.0577378 C24.775,14.2410966 25,14.1410827 25,13.8354847 L25,4.19525692 L10,4.19525692" id="Fill-684" fill="#F7CB64"></path>
+                            <path d="M17,4.19525692 C17.0105595,4.20933869 17.0108545,5.0328878 17.0108545,6.07054993 L17.0108545,12.759095 C17.2039095,12.759095 17.3976301,12.8153538 17.5440855,12.9153694 L19.1417815,14.0405452 C19.4346924,14.2468275 19.9140012,14.2468275 20.2069121,14.0405452 L21.8046081,12.9153694 C22.097519,12.7090872 22.5768278,12.7090872 22.8697387,12.9153694 L24.4674347,14.0405452 C24.7603456,14.2468275 25,14.1343099 25,13.7905062 L25,4.19525692 L19.0079745,4.19525692 L17,4.19525692 Z" id="Fill-685" fill="#F2BE53"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Hex" stroke="#1D8E96" stroke-width="4">
+                    <path d="M45.5618501,3.25844398 L45.5621963,3.25823359 L6.67338401,26.8942953 C3.79673288,28.6432593 2,31.9508238 2,35.5582677 L2,82.4417323 C2,86.0486597 3.79764663,89.3586805 6.67318764,91.1055853 L45.560618,114.742485 C46.9289662,115.572418 48.4546283,116 50,116 C51.5458817,116 53.0723633,115.572188 54.4362178,114.743457 L93.3268764,91.1055464 C96.2016145,89.3583456 98,86.0476286 98,82.4417323 L98,35.5582677 C98,31.9518547 96.202529,28.6435953 93.3268966,26.8944659 L54.4351916,3.25759524 C53.0721095,2.42798656 51.5462432,2 50,2 C48.4542664,2 46.9292165,2.42775755 45.5618501,3.25844398 Z" id="Azure-Hex-Border"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

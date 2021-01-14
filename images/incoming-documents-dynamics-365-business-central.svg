@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Post sales and purchase invoices in Microsoft Dynamics 365 Business Central/process-incoming-documents-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-10.3%" y="-7.4%" width="120.5%" height="114.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-10.3%" y="-7.4%" width="120.5%" height="114.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Post-sales-and-purchase-invoices-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -660.000000)">
+            <g id="Post-sales-and-purchase-invoices-in-Microsoft-Dynamics-365-Business-Central/process-incoming-documents-in-dynamics-365-business-central" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Configure-and-use-cash-and-bank-management-and-sales-tax-in-Dynamics-365-for-Finance-and-Operations/configure-letters-of-credit-and-guarantees-in-dynamics-365-for-finance-and-operations" mask="url(#mask-2)">
+                        <g transform="translate(25.000000, 17.000000)" id="Mask">
+                            <g>
+                                <g id="Document" filter="url(#filter-3)" transform="translate(6.000000, -0.000000)">
+                                    <path d="M3.35882143,0 C1.51239286,0 0.00167857143,1.51714286 0.00167857143,3.37142857 L0.00167857143,50.5714286 C0.00167857143,52.4257143 1.51239286,53.9428571 3.35882143,53.9428571 L35.2516786,53.9428571 C37.0989464,53.9428571 38.6088214,52.4257143 38.6088214,50.5714286 L38.6088214,13.4857143 L25.18025,0 L3.35882143,0" id="Fill-1" fill="#E1E4E1"></path>
+                                    <path d="M28.5373929,13.4857143 L38.6088214,13.4857143 L25.18025,0 L25.18025,10.1142857 C25.18025,11.9685714 26.6909643,13.4857143 28.5373929,13.4857143" id="Fill-2" fill="#697D85"></path>
+                                </g>
+                                <g id="Document" filter="url(#filter-4)" transform="translate(0.000000, 5.000000)">
+                                    <path d="M0.00167857143,3.37142857 L0.00167857143,50.5714286 C0.00167857143,52.4257143 1.51239286,53.9428571 3.35882143,53.9428571 L35.2516786,53.9428571 C37.0989464,53.9428571 38.6088214,52.4257143 38.6088214,50.5714286 L38.6088214,13.4857143 L25.18025,0 L3.35882143,0 C1.51239286,0 0.00167857143,1.51714286 0.00167857143,3.37142857 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                    <path d="M28.5373929,13.4857143 L38.6088214,13.4857143 L25.18025,0 L25.18025,10.1142857 C25.18025,11.9685714 26.6909643,13.4857143 28.5373929,13.4857143" id="Fill-2" fill="#C5CCCD"></path>
+                                    <path d="M29.3766786,39.6142857 L7.55525,39.6142857 C6.62867857,39.6142857 5.87667857,38.8590857 5.87667857,37.9285714 C5.87667857,36.9980571 6.62867857,36.2428571 7.55525,36.2428571 L29.3766786,36.2428571 C30.3040893,36.2428571 31.05525,36.9980571 31.05525,37.9285714 C31.05525,38.8590857 30.3040893,39.6142857 29.3766786,39.6142857" id="Fill-7" fill="#E1E4E1"></path>
+                                    <path d="M29.3766786,31.6142857 L7.55525,31.6142857 C6.62867857,31.6142857 5.87667857,30.8590857 5.87667857,29.9285714 C5.87667857,28.9980571 6.62867857,28.2428571 7.55525,28.2428571 L29.3766786,28.2428571 C30.3040893,28.2428571 31.05525,28.9980571 31.05525,29.9285714 C31.05525,30.8590857 30.3040893,31.6142857 29.3766786,31.6142857" id="Fill-7" fill="#E1E4E1"></path>
+                                    <path d="M25.6433452,47.2 L7.28858333,47.2 C6.5092119,47.2 5.87667857,46.4448 5.87667857,45.5142857 C5.87667857,44.5837714 6.5092119,43.8285714 7.28858333,43.8285714 L25.6433452,43.8285714 C26.4234226,43.8285714 27.05525,44.5837714 27.05525,45.5142857 C27.05525,46.4448 26.4234226,47.2 25.6433452,47.2" id="Fill-8" fill="#E1E4E1"></path>
+                                    <path d="M19.1191869,24.4428571 C18.3129761,24.4428571 17.6586601,23.6876571 17.6586601,22.7571429 C17.6586601,21.8266286 18.3129761,21.0714286 19.1191869,21.0714286 L29.5947231,21.0714286 C30.4016642,21.0714286 31.05525,21.8266286 31.05525,22.7571429 C31.05525,23.6876571 30.4016642,24.4428571 29.5947231,24.4428571 L19.1191869,24.4428571 Z" id="Fill-7" fill="#E1E4E1"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <circle id="Oval" fill="#01B6C3" mask="url(#mask-2)" cx="64.5" cy="70.5" r="14.5"></circle>
+                    <path d="M64.5,82 C58.1484615,82 53,76.8506538 53,70.5 C53,64.1493462 58.1484615,59 64.5,59 C70.8515385,59 76,64.1493462 76,70.5 C76,76.8506538 70.8515385,82 64.5,82 Z" id="Fill-25" fill="#7CB65A" mask="url(#mask-2)"></path>
+                    <path d="M69.560352,66.4393308 C68.9741547,65.8535564 68.0231791,65.8535564 67.4377324,66.4393308 L62.489957,71.3835368 L60.7028434,69.6134631 C60.6600608,69.5534606 60.6165275,69.4934581 60.5617357,69.4394558 C59.9755384,68.8536814 59.0245628,68.8536814 58.4391161,69.4394558 C57.8581728,70.0177299 57.8544199,70.955269 58.4233541,71.5425434 L58.4053403,71.5605442 L61.4331507,74.5606692 C62.0193479,75.1464436 62.9703236,75.1464436 63.5565209,74.5606692 L69.5558486,68.5641693 C69.5573497,68.5634193 69.5588509,68.5619192 69.560352,68.5604192 C70.1465493,67.9746448 70.1465493,67.0236052 69.560352,66.4393308" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

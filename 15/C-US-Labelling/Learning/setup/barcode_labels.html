@@ -1,0 +1,84 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"><a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">Labelling</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">Barcode Labels</label></br>
+                <label class="topic-overview-info">3 minutes - Unit 2 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>Barcode Labels are created and configured to map to each physical label layout</label>
+                    </br>
+                    </br>
+                    <label>Barcode Label can be confiured to direct their output to one of several destinations</label>
+                    <li>Report - A Business Central report object</li>
+                    <li>Loftware PAS - Loftware PAS files are created</li>
+                    <li>Bartender DAT - Bartender DAT files are created</li>
+                    <li>Loftware API - Integration to a Loftware server via REST API's</li>
+                    </br>
+                    <!-- <img src="./images/barcode_printers.png" style="max-width: 100%; padding-right: 20px;"> -->
+                    <img id=bCodeLabelsSmall src="./images/barcode_lables.png" alt="Barcode Labels" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <li>Code - unique identifier</li>
+                    <li>Description - informational</li>
+                    <li>Type - identifies the type of label that this represents</li>
+                    <li>Print Method - determines the destination format</li>
+                    <li>Label Format File - this is passed to the Loftware or Bartender as to direct that software as to which label format to print</li>
+                    <li>Report ID - when Print Method is <i>Report</i> the Business Central report object number is selected here</li>
+                    </br>
+                    <label><b>Test Print</b></label>
+                    </br>
+                    <label>This opens a new page with randonly generated sample data that allows you to test the configuration of the label</label>
+                    <img id=testPrintSmall src="./images/test_print.png" alt="Test Print" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label><b>Label Mapping</b></label>
+                    </br>
+                    <label>This opens a new page with randonly generated sample data that allows you to test the configuration of the label</label>
+                    <img id=testPrintSmall src="./images/test_print.png" alt="Test Print" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Next unit: Label Mapping</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./barcode_printers.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = './label_mapping.html'">Continue ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

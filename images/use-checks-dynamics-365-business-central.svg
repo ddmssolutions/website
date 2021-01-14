@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Process customer and vendor payments in Microsoft Dynamics 365 Business Central/use-checks-to-pay-vendors-in-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <rect id="path-3" x="0" y="0" width="59" height="32" rx="1"></rect>
+        <filter x="-1.7%" y="-3.1%" width="103.4%" height="112.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-customer-and-vendor-payments-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -860.000000)">
+            <g id="Process-customer-and-vendor-payments-in-Microsoft-Dynamics-365-Business-Central/use-checks-to-pay-vendors-in-business-central" transform="translate(50.000000, 860.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Check" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(18.000000, 32.000000)">
+                            <g id="Rectangle" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#E1E4E1" xlink:href="#path-3"></use>
+                            </g>
+                            <path d="M34.0716332,0 L57.9404462,0 C58.4927309,-1.01453063e-16 58.9404462,0.44771525 58.9404462,1 L58.9404462,31 C58.9404462,31.5522847 58.4927309,32 57.9404462,32 L24,32 L34.0716332,0 Z" id="Combined-Shape" fill="#C5CCCD"></path>
+                            <rect id="Rectangle" fill="#AAB0B1" x="17" y="19" width="38" height="1" rx="0.5"></rect>
+                            <path d="M5.82801105,19 L28.1487264,19 L27.8683992,20 L5.82801105,20 C5.55186867,20 5.32801105,19.7761424 5.32801105,19.5 C5.32801105,19.2238576 5.55186867,19 5.82801105,19 Z" id="Rectangle" fill="#C5CCCD"></path>
+                            <path d="M5.59170943,16 L43.0017428,16 C43.2778852,16 43.5017428,16.2238576 43.5017428,16.5 C43.5017428,16.7761424 43.2778852,17 43.0017428,17 L5.59170943,17 C5.31556705,17 5.09170943,16.7761424 5.09170943,16.5 C5.09170943,16.2238576 5.31556705,16 5.59170943,16 Z" id="Rectangle" fill="#7CB65A"></path>
+                            <path d="M5.50469541,23 L26.5,23 C26.7761424,23 27,23.2238576 27,23.5 C27,23.7761424 26.7761424,24 26.5,24 L5.50469541,24 C5.22855303,24 5.00469541,23.7761424 5.00469541,23.5 C5.00469541,23.2238576 5.22855303,23 5.50469541,23 Z" id="Rectangle" fill="#7CB65A"></path>
+                            <rect id="Rectangle" fill="#AAB0B1" x="17" y="26" width="15" height="1" rx="0.5"></rect>
+                            <path d="M5.51279922,26 L26,26 L25.6531185,27 L5.51279922,27 C5.23665685,27 5.01279922,26.7761424 5.01279922,26.5 C5.01279922,26.2238576 5.23665685,26 5.51279922,26 Z" id="Rectangle" fill="#C5CCCD"></path>
+                            <rect id="Rectangle" fill="#7CB65A" x="40" y="23" width="10" height="1" rx="0.5"></rect>
+                            <rect id="Rectangle" fill="#AAB0B1" x="40" y="26" width="15" height="1" rx="0.5"></rect>
+                            <path d="M1,0 L58,0 C58.5522847,-1.01453063e-16 59,0.44771525 59,1 L59,5 L0,5 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle" fill="#546670"></path>
+                            <path d="M34.0087771,0 L58,0 C58.5522847,-1.01453063e-16 59,0.44771525 59,1 L59,5 L32.4559953,5 L34.0087771,0 Z" id="Combined-Shape" fill="#30404D"></path>
+                            <rect id="Rectangle" fill="#FFFFFF" x="5" y="8" width="50" height="5"></rect>
+                        </g>
+                    </g>
+                    <path d="M71,71 C64.3723077,71 59,65.6267692 59,59 C59,52.3732308 64.3723077,47 71,47 C77.6276923,47 83,52.3732308 83,59 C83,65.6267692 77.6276923,71 71,71 Z" id="Fill-25" fill="#01B6C3" mask="url(#mask-2)"></path>
+                    <path d="M71,69 C65.4769231,69 61,64.5223077 61,59 C61,53.4776923 65.4769231,49 71,49 C76.5230769,49 81,53.4776923 81,59 C81,64.5223077 76.5230769,69 71,69 Z" id="Fill-25" fill="#7CB65A" mask="url(#mask-2)"></path>
+                    <path d="M75.6336267,55.3905163 C75.1451289,54.8698279 74.3526493,54.8698279 73.864777,55.3905163 L69.7416309,59.7853661 L68.2523695,58.2119672 C68.2167173,58.1586316 68.1804396,58.1052961 68.1347798,58.0572941 C67.646282,57.5366057 66.8538023,57.5366057 66.3659301,58.0572941 C65.8818107,58.5713155 65.8786833,59.4046835 66.3527951,59.9267053 L66.3377836,59.9427059 L68.8609589,62.6094837 C69.3494566,63.1301721 70.1419363,63.1301721 70.6304341,62.6094837 L75.6298738,57.2792616 C75.6311248,57.2785949 75.6323757,57.2772616 75.6336267,57.2759282 C76.1221244,56.7552398 76.1221244,55.9098712 75.6336267,55.3905163" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

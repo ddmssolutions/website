@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Work with essential development standards for Microsoft Dynamics 365 Business Central/identify-functional-table-types-and-characteristics-in-dynamics-365-business-central</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="94.3396226" height="94.3396226" rx="47.1698113"></rect>
+        <filter x="-2.9%" y="-2.9%" width="106.4%" height="106.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0.5" dy="0.5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0.5" dy="0.5" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.821822822   0 0 0 0 0.831640661   0 0 0 0 0.835737288  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="77.8299825%" y1="11.1997378%" x2="-99.6885927%" y2="253.807911%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+        <path d="M47.1698113,0 C73.2209788,0 94.3396226,21.1186439 94.3396226,47.1698113 C94.3396226,73.2209788 73.2209788,94.3396226 47.1698113,94.3396226 C21.1186439,94.3396226 0,73.2209788 0,47.1698113 C0,21.1186439 21.1186439,0 47.1698113,0 Z M47.1698113,3.77358491 C23.2027373,3.77358491 3.77358491,23.2027373 3.77358491,47.1698113 C3.77358491,71.1368854 23.2027373,90.5660377 47.1698113,90.5660377 C71.1368854,90.5660377 90.5660377,71.1368854 90.5660377,47.1698113 C90.5660377,23.2027373 71.1368854,3.77358491 47.1698113,3.77358491 Z" id="path-6"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#D2EBFF" offset="0%"></stop>
+            <stop stop-color="#F0FFFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#CCCCCC" offset="15%"></stop>
+            <stop stop-color="#707070" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="97.5691716%" x2="50%" y2="-5.30956676%" id="linearGradient-10">
+            <stop stop-color="#0078D4" offset="0%"></stop>
+            <stop stop-color="#1380DA" offset="16%"></stop>
+            <stop stop-color="#3C91E5" offset="53%"></stop>
+            <stop stop-color="#559CEC" offset="82%"></stop>
+            <stop stop-color="#5EA0EF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#DA3A00" offset="0%"></stop>
+            <stop stop-color="#DA3A00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.04550253%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFE02A" offset="0%"></stop>
+            <stop stop-color="#FFB518" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#153A66" stop-opacity="0.996585446" offset="0%"></stop>
+            <stop stop-color="#051D32" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#0062B3" offset="0%"></stop>
+            <stop stop-color="#00549B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#1E5CA5" offset="0%"></stop>
+            <stop stop-color="#225496" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,4.36213992 L8,3.44032922 L7.05785124,3.11111111 L6.82644628,2.48559671 L7.2892562,1.51440329 L7.2892562,1.41563786 L6.99173554,1.11934156 L6.6446281,0.724279835 L6.51239669,0.724279835 L5.58677686,1.218107 L4.95867769,1.03703704 L4.54545455,0 L3.63636364,0 L3.32231405,0.938271605 L2.62809917,1.218107 L1.55371901,0.70781893 L0.909090909,1.34979424 L0.909090909,1.46502058 L1.38842975,2.38683128 L1.10743802,3.0781893 L0,3.48971193 L0,4.41152263 L0.132231405,4.41152263 L1.10743802,4.74074074 L1.37190083,5.36625514 L0.876033058,6.43621399 L1.52066116,7.09465021 L1.65289256,7.09465021 L2.56198347,6.63374486 L3.20661157,6.89711934 L3.60330579,8 L4.52892562,8 L4.52892562,7.86831276 L4.84297521,6.88065844 L5.47107438,6.61728395 L6.56198347,7.12757202 L7.20661157,6.48559671 L7.20661157,6.35390947 L6.74380165,5.43209877 L6.92561983,4.79012346 L8,4.36213992 Z M4.06629467,5.14275064 C3.37758567,5.06880238 2.85714286,4.51545111 2.85714286,3.85714217 C2.85714286,3.19883323 3.37758567,2.64548196 4.06629467,2.5715337 C4.42596828,2.56715358 4.77250083,2.69980236 5.02846424,2.93984145 C5.28442766,3.17988053 5.42848886,3.50730405 5.4284593,3.84895358 L5.4284593,3.84895358 C5.43313967,4.19343347 5.29112975,4.52510503 5.03465273,4.76870937 C4.7781757,5.01231372 4.42897776,5.1471961 4.06629467,5.14275064 Z" id="path-16"></path>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-essential-development-standards-for-Microsoft-Dynamics-365-Business-Central" transform="translate(-159.000000, -319.000000)">
+            <g id="Work-with-essential-development-standards-for-Microsoft-Dynamics-365-Business-Central/identify-functional-table-types-and-characteristics-in-dynamics-365-business-central" transform="translate(160.000000, 320.000000)">
+                <g id="Badge-Plates/Circle">
+                    <g id="BG" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <rect stroke="#F2F1F0" stroke-width="2.5" x="-1.25" y="-1.25" width="96.8396226" height="96.8396226" rx="48.4198113"></rect>
+                        </g>
+                        <g id="Colors/Microsoft-365/BG-Solid-Badge" mask="url(#mask-2)">
+                            <g id="Rectangle">
+                                <use fill="#0078D4" xlink:href="#path-5"></use>
+                                <use fill-opacity="0.4" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Boarder" fill="#0078D4" fill-rule="nonzero" xlink:href="#path-6"></use>
+                        <g id="Colors/Microsoft-365/Border" mask="url(#mask-7)" fill="#0076D7">
+                            <rect id="Microsoft-365/Border" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(22.000000, 27.000000)" fill-rule="nonzero">
+                    <g id="Computer">
+                        <rect id="Rectangle" fill="url(#linearGradient-8)" x="0" y="0" width="55" height="38" rx="0.6"></rect>
+                        <path d="M39.2310644,49.7602592 C33.6933097,48.8531317 33.4755328,44.7062635 33.4755328,38 L22.4933562,38 C22.4933562,44.7062635 22.3066903,48.8531317 16.7689356,49.7602592 C15.185589,49.9427055 13.9903944,51.3411498 14,53 L42,53 C42.0096056,51.3411498 40.814411,49.9427055 39.2310644,49.7602592 Z" id="Path" fill="url(#linearGradient-9)"></path>
+                    </g>
+                    <g id="Computer" transform="translate(7.000000, 6.000000)">
+                        <rect id="Rectangle" fill="#92C4FC" x="0" y="1" width="16" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle" fill="#92C4FC" x="0" y="8" width="10" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-10)" x="4" y="19" width="8" height="7"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-11)" x="17" y="12" width="8" height="14"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-12)" x="30" y="5" width="8" height="21"></rect>
+                    </g>
+                </g>
+                <g id="Group-13" transform="translate(67.489484, 60.898310) scale(-1, 1) rotate(-8.000000) translate(-67.489484, -60.898310) translate(53.489484, 47.398310)" fill-rule="nonzero">
+                    <path d="M-0.196724659,18.8719263 L13.1878661,18.739469 C13.5357885,18.7360259 13.8206265,19.0152815 13.8240696,19.3632038 C13.8241112,19.3674062 13.8241107,19.3716089 13.8240682,19.3758113 L13.8056123,21.2001298 C13.8021422,21.5431382 13.524888,21.8203313 13.1818789,21.8237258 L-0.202711899,21.9561832 C-0.550634255,21.9596263 -0.835472258,21.6803707 -0.838915387,21.3324483 C-0.838956975,21.328246 -0.838956512,21.3240433 -0.838913998,21.3198409 L-0.820458087,19.4955224 C-0.816988007,19.152514 -0.539733791,18.8753208 -0.196724659,18.8719263 Z" id="Rectangle" fill="url(#linearGradient-13)" transform="translate(6.492577, 20.347826) rotate(-45.000000) translate(-6.492577, -20.347826) "></path>
+                    <circle id="Oval" fill="url(#linearGradient-14)" cx="16.8236029" cy="10.8722626" r="10.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="16.8236029" cy="10.8722626" r="7.5"></circle>
+                </g>
+                <g id="Gear" transform="translate(61.000000, 54.000000)" fill-rule="nonzero">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                        <use fill="url(#linearGradient-15)" xlink:href="#path-16"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

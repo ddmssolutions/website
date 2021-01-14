@@ -1,0 +1,78 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"><a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">Labelling</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">Barcode Printers</label></br>
+                <label class="topic-overview-info">3 minutes - Unit 1 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>Barcode Printers are required to be setup within Business Central as a destination for the Barcode Label data generated from within the application.</label>
+                    </br>
+                    </br>
+
+                    <img id=bCodePrintersSmall src="./images/barcode_printers.png" alt="Barcode Printers" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <li><b>ID</b> - The unique identified for this printer</li>
+                    <li><b>Name</b> - Internal name for the printer used to help users identify the correct printer within Business Central</li>
+                    <li><b>Share Name</b> - Mandatory for Bartender printing as this instructs Bartender as to which printer to print to</li>
+                    <li><b>Model</b> - Used for informational purposes</li>
+                    <li><b>Info.</b> - Optional informational</li>
+                    <li><b>API URL</b> - Required when the configure labels are integrating via REST APIs</li>
+                    <li><b>API Username</b> - Required when the configure labels are integrating via REST APIs</li>
+                    <li><b>API Password</b> - Required when the configure labels are integrating via REST APIs</li>
+                    <li><b>Drop File Folder Name</b> - When using Loftware PAS or Bartender DAT this field is mandatory and will be the location of generated print files</li>
+                    </br>
+                    <label>1. Search for <i>Barcode Printers</i></label>
+                    <img src=".//images/barcode_printers_search.png" class="img-small img-static">
+                    </br>
+                    <label>2. Click <i>New</i> and populate <b>ID</b> and <b>Name</b>, the remaining fields are optional based upon the intended usage of the printer</label>
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px; ">
+                    </br>
+                    <label class="nextUnit">Next unit: Barcode Labels</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./topic_overview.html' ">&lt; Back</button>
+                    <button class="startContBtn " onclick="document.location='./barcode_labels.html' ">Continue ></button>
+
+                </div>
+
+            </div>
+            <div class="cleared "></div>
+        </div>
+        </div>
+        <div class="seperator "></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

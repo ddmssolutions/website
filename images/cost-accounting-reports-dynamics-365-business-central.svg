@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Use cost accounting in Microsoft Dynamics 365 Business Central/create-cost-accounting-reports-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-8.2%" y="-6.2%" width="116.3%" height="112.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.100288723 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-4" points="0.001 0.04 20.001 0.04 20.001 12 0.001 12"></polygon>
+        <circle id="path-6" cx="6" cy="6" r="6"></circle>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-cost-accounting-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -660.000000)">
+            <g id="Use-cost-accounting-in-Microsoft-Dynamics-365-Business-Central/create-cost-accounting-reports-in-dynamics-365-business-central" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <path d="M38.1969275,93.2071624 C38.1969275,87.483078 33.584711,82.8708615 27.8606265,82.8708615 C33.584711,82.8708615 38.1969275,78.258645 38.1969275,72.5345605 C38.1969275,78.258645 42.809144,82.8708615 48.5332284,82.8708615 C42.809144,82.8708615 38.1969275,87.483078 38.1969275,93.2071624 Z" id="Path" fill="#FFFFFF" opacity="0.949999988" mask="url(#mask-2)"></path>
+                    <g id="Clipboard" mask="url(#mask-2)">
+                        <g transform="translate(23.000000, 16.000000)">
+                            <g id="Clipboard">
+                                <g id="Mask">
+                                    <g id="Group-4" filter="url(#filter-3)">
+                                        <path d="M4.001,64 C1.801,64 0.001,62.2 0.001,60 L0.001,10 C0.001,7.8 1.801,6 4.001,6 L44.001,6 C46.201,6 48.001,7.8 48.001,10 L48.001,60 C48.001,62.2 46.201,64 44.001,64 L4.001,64" id="Fill-18" fill="#30404D"></path>
+                                        <path d="M44.001,6 L24.001,6 L24.001,64 L44.001,64 C46.201,64 48.001,62.2 48.001,60 L48.001,10 C48.001,7.8 46.201,6 44.001,6" id="Fill-19" fill="#182A37"></path>
+                                        <path d="M3.001,59 L3.001,11 C3.001,9.899 3.901,9 5.001,9 L43.001,9 C44.101,9 45.001,9.899 45.001,11 L45.001,59 C45.001,60.101 44.101,61 43.001,61 L5.001,61 C3.901,61 3.001,60.101 3.001,59 Z" id="Fill-20" fill="#FFFFFE"></path>
+                                        <g id="Group-25" transform="translate(14.000000, 0.000000)">
+                                            <mask id="mask-5" fill="white">
+                                                <use xlink:href="#path-4"></use>
+                                            </mask>
+                                            <g id="Clip-23"></g>
+                                            <path d="M19.001,11 L1.001,11 C0.451,11 0.001,10.55 0.001,10 L0.001,11 C0.001,11.55 0.451,12 1.001,12 L19.001,12 C19.551,12 20.001,11.55 20.001,11 L20.001,10 C20.001,10.55 19.551,11 19.001,11" id="Fill-22" fill="#546670" mask="url(#mask-5)"></path>
+                                            <path d="M10.001,2 C11.104,2 12.001,2.897 12.001,4 L8.001,4 C8.001,2.897 8.897,2 10.001,2 Z M19.001,4 L14.001,4 C14.001,1.791 12.21,0 10.001,0 C7.792,0 6.001,1.791 6.001,4 L1.001,4 C0.451,4 0.001,4.45 0.001,5 L0.001,10 C0.001,10.55 0.451,11 1.001,11 L19.001,11 C19.551,11 20.001,10.55 20.001,10 L20.001,5 C20.001,4.45 19.551,4 19.001,4 L19.001,4 Z" id="Fill-24" fill="#ADBDC4" mask="url(#mask-5)"></path>
+                                        </g>
+                                        <polygon id="Fill-26" fill="#182A37" points="13.001 9 14.001 9 14.001 6 13.001 6"></polygon>
+                                        <path d="M34.001,10 L34.001,5 C34.001,4.45 33.551,4 33.001,4 L29.001,4 L26.001,11 L33.001,11 C33.551,11 34.001,10.55 34.001,10" id="Fill-33" fill="#8BA6B1"></path>
+                                        <path d="M24.686,0.069 L23.852,2.015 C23.902,2.011 23.95,2 24.001,2 C25.104,2 26.001,2.897 26.001,4 L23.001,4 L20.001,11 L24.001,11 L27.676,2.424 C27.151,1.202 26.033,0.303 24.686,0.069" id="Fill-34" fill="#8BA6B1"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Lines" transform="translate(25.000000, 18.000000)">
+                                <rect id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" x="0" y="0" width="17" height="2" rx="1"></rect>
+                                <rect id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" x="0" y="5" width="17" height="2" rx="1"></rect>
+                            </g>
+                            <g id="Pie-Chart" transform="translate(8.000000, 47.000000)">
+                                <circle id="Oval" fill="#55B7D9" fill-rule="nonzero" cx="6" cy="6" r="6"></circle>
+                                <path d="M6,0.021376866 C6.16086833,0.00722561873 6.32372429,-3.15303339e-14 6.48826788,-3.15303339e-14 C9.52583401,-3.15303339e-14 11.9882679,2.46243388 11.9882679,5.5 C11.9882679,5.50571981 11.9882592,5.51143758 11.9882417,5.51715329 L6,5.51715329 L6,0.021376866 Z" id="Combined-Shape" fill="#0095B2" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="Graph" transform="translate(27.000000, 31.000000)">
+                                <rect id="Blue" fill="#55B7D9" fill-rule="nonzero" x="0" y="0" width="3" height="13"></rect>
+                                <rect id="Red" fill="#DF5142" fill-rule="nonzero" x="4" y="6" width="3" height="7"></rect>
+                                <rect id="Green" fill="#7CB65A" fill-rule="nonzero" x="8" y="3" width="3" height="10"></rect>
+                            </g>
+                            <g id="Coin-Money" transform="translate(27.000000, 47.000000)">
+                                <path d="M6,0 C2.6863125,0 0,2.6863125 0,6 C0,9.3136875 2.6863125,12 6,12 C9.3136875,12 12,9.3136875 12,6 C12,2.6863125 9.3136875,0 6,0" id="Fill-21" fill="#F7CB64"></path>
+                                <path d="M4.90492105,11.8867258 L9.2,1.12237847 C8.71233289,0.809006027 8.17627565,0.564049819 7.60500847,0.4 L3.28778644,11.3532157 C3.9024855,11.6398802 4.44153037,11.8177169 4.90492105,11.8867258 Z" id="Fill-22" fill="#F2BE53"></path>
+                                <path d="M6.152403,12 C9.38192118,12 12,9.33594136 12,6.04970499 C12,4.27912033 11.2390814,2.69001967 10.0328318,1.6 L6,11.9960951 C6.050801,11.9973967 6.10123652,12 6.152403,12" id="Fill-23" fill="#F2BE53"></path>
+                                <path d="M6,1.54285714 C3.54225714,1.54285714 1.54285714,3.54225714 1.54285714,6 C1.54285714,8.45774286 3.54225714,10.4571429 6,10.4571429 C8.45774286,10.4571429 10.4571429,8.45774286 10.4571429,6 C10.4571429,3.54225714 8.45774286,1.54285714 6,1.54285714 Z M6,11.2 C3.13257143,11.2 0.8,8.86724286 0.8,6 C0.8,3.13257143 3.13257143,0.8 6,0.8 C8.86742857,0.8 11.2,3.13257143 11.2,6 C11.2,8.86724286 8.86742857,11.2 6,11.2 L6,11.2 Z" id="Fill-24" fill="#EFB252"></path>
+                            </g>
+                            <g id="Coin-Money" transform="translate(8.000000, 31.000000)">
+                                <path d="M6,0 C2.6863125,0 0,2.6863125 0,6 C0,9.3136875 2.6863125,12 6,12 C9.3136875,12 12,9.3136875 12,6 C12,2.6863125 9.3136875,0 6,0" id="Fill-21" fill="#F7CB64"></path>
+                                <path d="M4.90492105,11.8867258 L9.2,1.12237847 C8.71233289,0.809006027 8.17627565,0.564049819 7.60500847,0.4 L3.28778644,11.3532157 C3.9024855,11.6398802 4.44153037,11.8177169 4.90492105,11.8867258 Z" id="Fill-22" fill="#F2BE53"></path>
+                                <path d="M6.152403,12 C9.38192118,12 12,9.33594136 12,6.04970499 C12,4.27912033 11.2390814,2.69001967 10.0328318,1.6 L6,11.9960951 C6.050801,11.9973967 6.10123652,12 6.152403,12" id="Fill-23" fill="#F2BE53"></path>
+                                <path d="M6,1.54285714 C3.54225714,1.54285714 1.54285714,3.54225714 1.54285714,6 C1.54285714,8.45774286 3.54225714,10.4571429 6,10.4571429 C8.45774286,10.4571429 10.4571429,8.45774286 10.4571429,6 C10.4571429,3.54225714 8.45774286,1.54285714 6,1.54285714 Z M6,11.2 C3.13257143,11.2 0.8,8.86724286 0.8,6 C0.8,3.13257143 3.13257143,0.8 6,0.8 C8.86742857,0.8 11.2,3.13257143 11.2,6 C11.2,8.86724286 8.86742857,11.2 6,11.2 L6,11.2 Z" id="Fill-24" fill="#EFB252"></path>
+                            </g>
+                            <g id="dynamics" transform="translate(8.000000, 15.000000)">
+                                <g id="Oval" fill-rule="nonzero">
+                                    <use fill="#01B6C3" xlink:href="#path-6"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                </g>
+                                <g id="Dynamics-icon" transform="translate(3.600000, 2.400000)" fill="#FFFFFF">
+                                    <polygon id="Path" points="0 7.6 1.6 3.36674869 0 2.4"></polygon>
+                                    <polygon id="Path" points="4.8 4.88873382 4.8 2.4 0 7.6"></polygon>
+                                    <polygon id="Path" points="0 0 0 1.84333106 3.00385098 3.2 4.4 2.15420821"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M35.1969275,21.0984637 C29.050769,21.0984637 24.0984637,16.1461585 24.0984637,10 C24.0984637,16.1461585 19.1461585,21.0984637 13,21.0984637 C19.1461585,21.0984637 24.0984637,26.050769 24.0984637,32.1969275 C24.0984637,26.050769 29.050769,21.0984637 35.1969275,21.0984637 Z M82.9782353,44.8454225 C78.1888319,44.8454225 74.3297403,40.9863309 74.3297403,36.1969275 C74.3297403,40.9863309 70.4706488,44.8454225 65.6812454,44.8454225 C70.4706488,44.8454225 74.3297403,48.704514 74.3297403,53.4939175 C74.3973051,48.704514 78.2563567,44.8454225 82.9782353,44.8454225 Z" id="Sparkle" fill="#FFFFFF" opacity="0.949999988" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

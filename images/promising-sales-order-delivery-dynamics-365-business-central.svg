@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Sell items and services in Microsoft Dynamics 365 Business Central/promising-sales-order-delivery-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-7.5%" y="-8.9%" width="115.1%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0992980072 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M26,14 C26,20.6267692 20.6276923,26 14,26 C7.37323077,26 2,20.6267692 2,14 C2,7.37323077 7.37323077,2 14,2 C20.6276923,2 26,7.37323077 26,14" id="path-4"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="116.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sell-items-and-services-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -660.000000)">
+            <g id="Sell-items-and-services-in-Microsoft-Dynamics-365-Business-Central/promising-sales-order-delivery-in-dynamics-365-business-central" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Paper-Box" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(20.000000, 25.000000)">
+                            <path d="M53,5.76923077 L0,5.76923077 L5.30082813,1.15384615 C6.02957813,0.519230769 7.37114063,0 8.28207813,0 L44.7195781,0 C45.6305156,0 46.9720781,0.519230769 47.7008281,1.15384615 L53,5.76923077" id="Fill-680" fill="#CC9547"></path>
+                            <path d="M52.9991719,43.4307692 C52.9991719,44.2938462 52.253871,45 51.3429478,45 L1.65622412,45 C0.744472743,45 0,44.2938462 0,43.4307692 L0.000828112061,5.76923077 L53,5.76923077 L52.9991719,43.4307692" id="Fill-681" fill="#F2BE53"></path>
+                            <polyline id="Fill-682" fill="#EFB252" points="38.0217391 5.76923077 16.1304348 5.76923077 18.8668478 0 35.2853261 0 38.0217391 5.76923077"></polyline>
+                            <path d="M51.3429478,45 C52.253871,45 52.9991719,44.2644231 52.9991719,43.3653846 L53,5.76923077 L28.9839221,5.76923077 C27.6117404,5.76923077 26.4995859,6.86442308 26.4995859,8.22115385 L26.4995859,40.9134615 C26.4995859,42.2701923 25.3874314,43.3653846 24.0152498,43.3653846 L0,43.3653846 C0,44.2644231 0.744472743,45 1.65622412,45 L51.3429478,45" id="Fill-683" fill="#EFB252"></path>
+                            <path d="M16.1304348,5.76923077 L16.1304348,20.2295725 C16.1304348,20.6879695 16.4588043,20.8379903 16.8601449,20.5629521 L19.0492754,19.0627438 C19.4506159,18.7877056 20.1073551,18.7877056 20.5086957,19.0627438 L22.6978261,20.5629521 C23.0991667,20.8379903 23.7559058,20.8379903 24.1572464,20.5629521 L26.3463768,19.0627438 C26.7477174,18.7877056 27.4044565,18.7877056 27.8057971,19.0627438 L29.9949275,20.5629521 C30.3962681,20.8379903 31.0530072,20.8379903 31.4543478,20.5629521 L33.6434783,19.0627438 C34.0448188,18.7877056 34.701558,18.7877056 35.1028986,19.0627438 L37.292029,20.5629521 C37.6933696,20.8379903 38.0217391,20.6879695 38.0217391,20.2295725 L38.0217391,5.76923077 L16.1304348,5.76923077" id="Fill-684" fill="#F7CB64"></path>
+                            <path d="M27.6521739,5.76923077 C27.665861,5.79035343 27.6662435,7.02567709 27.6662435,8.58217029 L27.6662435,18.6149879 C27.9164805,18.6149879 28.1675803,18.6993761 28.3574152,18.8493995 L30.4283418,20.5371633 C30.8080117,20.8465866 31.4292896,20.8465866 31.8089595,20.5371633 L33.879886,18.8493995 C34.2595559,18.5399762 34.8808339,18.5399762 35.2605037,18.8493995 L37.3314303,20.5371633 C37.7111001,20.8465866 38.0217391,20.6778102 38.0217391,20.1621047 L38.0217391,5.76923077 L30.2549017,5.76923077 L27.6521739,5.76923077 Z" id="Fill-685" fill="#F2BE53"></path>
+                        </g>
+                    </g>
+                    <g id="Plus-Mark" mask="url(#mask-2)">
+                        <g transform="translate(56.000000, 50.000000)">
+                            <circle id="Oval" fill="#01B6C3" fill-rule="nonzero" cx="14" cy="14" r="14"></circle>
+                            <g id="Fill-10" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <path d="M19.560352,10.4393308 C18.9741547,9.8535564 18.0231791,9.8535564 17.4377324,10.4393308 L12.489957,15.3835368 L10.7028434,13.6134631 C10.6600608,13.5534606 10.6165275,13.4934581 10.5617357,13.4394558 C9.97553844,12.8536814 9.02456281,12.8536814 8.43911609,13.4394558 C7.85817281,14.0177299 7.85441994,14.955269 8.42335406,15.5425434 L8.40534032,15.5605442 L11.4331507,18.5606692 C12.0193479,19.1464436 12.9703236,19.1464436 13.5565209,18.5606692 L19.5558486,12.5641693 C19.5573497,12.5634193 19.5588509,12.5619192 19.560352,12.5604192 C20.1465493,11.9746448 20.1465493,11.0236052 19.560352,10.4393308" id="Fill-26" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

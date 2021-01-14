@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="118px" viewBox="0 0 100 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Post sales and purchase invoices in Microsoft Dynamics 365 Business Central/post-sales-and-purchase-invoices-in-microsoft-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7425,1.49663266 C44.3745,0.498877554 46.1865,0 48,0 C49.8135,0 51.627,0.498877554 53.256,1.49663266 L90.591,24.3316189 C93.933,26.3773408 96,30.2031485 96,34.3529027 L96,79.6470973 C96,83.7952317 93.933,87.6242789 90.591,89.6683811 L53.256,112.504987 C51.627,113.501122 49.8135,114 48,114 C46.1865,114 44.3745,113.501122 42.7425,112.504987 L5.409,89.6683811 C2.0655,87.6242789 0,83.7952317 0,79.6470973 L0,34.3529027 C0,30.2031485 2.0655,26.3773408 5.409,24.3316189 L42.7425,1.49663266 Z" id="path-1"></path>
+        <filter x="-8.9%" y="-6.6%" width="117.8%" height="113.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M32.5551064,15.25 L44.0444681,15.25 L28.7253191,0 L28.7253191,11.4375 C28.7253191,13.534375 30.4487234,15.25 32.5551064,15.25" id="path-4"></path>
+        <filter x="-6.5%" y="-6.6%" width="113.1%" height="126.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Post-sales-and-purchase-invoices-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -50.000000)">
+            <g id="Post-sales-and-purchase-invoices-in-Microsoft-Dynamics-365-Business-Central/post-sales-and-purchase-invoices-in-microsoft-dynamics-365-business-central" transform="translate(50.000000, 50.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Trophy-1" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Report-Sheer" mask="url(#mask-2)">
+                        <g transform="translate(25.000000, 24.911765)">
+                            <g id="Group-12" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.088235)">
+                                <g id="Paper-Certified" filter="url(#filter-3)">
+                                    <path d="M0.00191489362,3.8125 L0.00191489362,57.1875 C0.00191489362,59.284375 1.72531915,61 3.83170213,61 L40.2146809,61 C42.3220213,61 44.0444681,59.284375 44.0444681,57.1875 L44.0444681,15.25 L28.7253191,0 L3.83170213,0 C1.72531915,0 0.00191489362,1.715625 0.00191489362,3.8125 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                    <g id="Fill-2">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use fill="#C4CBCD" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                </g>
+                                <g id="Graph" transform="translate(7.682927, 9.803571)" fill-rule="nonzero">
+                                    <rect id="Blue" fill="#55B7D9" x="0" y="5.71875" width="4.73086627" height="17.15625"></rect>
+                                    <rect id="Red" fill="#DF5142" x="7.56938604" y="0" width="4.73086627" height="22.875"></rect>
+                                    <rect id="Green" fill="#7CB65A" x="15.1387721" y="9.53125" width="4.73086627" height="13.34375"></rect>
+                                    <rect id="Green" fill="#F7CB64" x="22.7081581" y="14.296875" width="4.73086627" height="8.578125"></rect>
+                                </g>
+                            </g>
+                            <polygon id="Path-31" fill="#E6E6E6" fill-rule="nonzero" points="42 15.0882353 44 15.0882353 43.9932363 17.0882353"></polygon>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="8" y="40.0882353" width="27" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="8" y="48.0882353" width="27" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                    <ellipse id="Oval" fill="#01B6C3" mask="url(#mask-2)" cx="66" cy="79.2647059" rx="15" ry="14.8235294"></ellipse>
+                    <path d="M66.5,91.8921569 C59.5961538,91.8921569 54,86.2379729 54,79.2647059 C54,72.2914389 59.5961538,66.6372549 66.5,66.6372549 C73.4038462,66.6372549 79,72.2914389 79,79.2647059 C79,86.2379729 73.4038462,91.8921569 66.5,91.8921569 Z" id="Fill-25" fill="#7CB65A" mask="url(#mask-2)"></path>
+                    <path d="M72.5237147,74.8059319 C71.8886676,74.1627286 70.858444,74.1627286 70.2242101,74.8059319 L64.8641201,80.234864 L62.9280804,78.2912536 C62.8817325,78.2253685 62.8345715,78.1594834 62.7752137,78.1001868 C62.1401666,77.4569835 61.109943,77.4569835 60.4757091,78.1001868 C59.8463539,78.7351544 59.8422883,79.7646091 60.4586336,80.4094595 L60.4391187,80.429225 L63.7192465,83.7234799 C64.3542936,84.3666832 65.3845172,84.3666832 66.0195643,83.7234799 L72.518836,77.1390879 C72.5204622,77.1382643 72.5220885,77.1366172 72.5237147,77.1349701 C73.1587618,76.4917668 73.1587618,75.447488 72.5237147,74.8059319" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Hex" stroke="#1D8E96" stroke-width="4">
+                    <path d="M45.5618501,3.25844398 L45.5621963,3.25823359 L6.67338401,26.8942953 C3.79673288,28.6432593 2,31.9508238 2,35.5582677 L2,82.4417323 C2,86.0486597 3.79764663,89.3586805 6.67318764,91.1055853 L45.560618,114.742485 C46.9289662,115.572418 48.4546283,116 50,116 C51.5458817,116 53.0723633,115.572188 54.4362178,114.743457 L93.3268764,91.1055464 C96.2016145,89.3583456 98,86.0476286 98,82.4417323 L98,35.5582677 C98,31.9518547 96.202529,28.6435953 93.3268966,26.8944659 L54.4351916,3.25759524 C53.0721095,2.42798656 51.5462432,2 50,2 C48.4542664,2 46.9292165,2.42775755 45.5618501,3.25844398 Z" id="Azure-Hex-Border"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

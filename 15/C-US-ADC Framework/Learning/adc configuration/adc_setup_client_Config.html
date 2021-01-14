@@ -1,0 +1,86 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">ADC Framework</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">ADC Configuration</label></br>
+                <label class="topic-overview-info">4 minutes - Unit 1 of 1</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>This step must be performed at least once per device to direct the browser to the Business Central installation, once configured the connection details are stored as a cookie for your user</label>
+                    </br>
+                    </br>
+                    <label>Open your browser and navigate to the ADC home page</label>
+                    </br>
+                    </br>
+                    <img id=homepageSmall src="./images/adc_homepage.png" alt="ADC Login" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Click on the menu icon in the top left and choose settings</label>
+                    </br>
+                    </br>
+                    <img id=openSettingsSmall src="./images/adc_menu_settings.png" alt="Open Settings" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>In the settings page you will specify:</label>
+                    <li><b>OData user</b> - this is the pre-configure Business Central user name</li>
+                    <li><b>Web Service Access Key</b> - as configured against the OData user</li>
+                    <li><b>Servername</b> - the machine name hosting the Business Central server (i.e. D365BC)</li>
+                    <li><b>Port</b> - the OData port number configured in the Business Central server (i.e. 7048)</li>
+                    <li><b>Service Name</b> - the Business Central server instance name (i.e. BC-Production)</li>
+                    <li><b>Company Name</b> - the Business Central Company to work within</li>
+                    </br>
+                    </br>
+                    <img id=settingsSmall src="./images/adc_settings.png" alt="ADC Settings" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>After populating the 5 data fields the refresh icon to the right of Company can be clicked. This will attempt to connect to the server specified and retrieve the list of companies. The drop down box will then allow you to choose a company in which you will work</label>
+                    </br>
+                    </br>
+                    <img id=settingsCompanySmall src="./images/adc_setting_company.png" alt="Select Company" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Click Save Settings when the configuration is completed and you will be returned to login page. You can then enter your username and password to access ADC</label>
+                    </br>
+                    </br>
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Module Completed</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./topic_overview.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = '../index.html'">Modules ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">ADC Framework</a> / <a href="">Message Log</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Message Log</h2>
+            </br>
+            <p>The message log contains all of the errors that are shown to each device. Both the error the user saw (i.e. "Invalid Location") and the more details explanation of that error. This message log should have its older data periodically removed, this can be achieved either manually via the Delete action or by the use of the Job Queue Entry routine that runs codeunit 14142104 "Clear Message Log" (this job queue entry uses the <i>Paramenter String</i> as a dateformula to determine which messages are removed and defaults to 1 week if not specified).</p>
+            <h4>User ID</h4>
+            <p>The Session ID of the device that received the error</p>
+            <h4>Message Date & Time</h4>
+            <p>When the error was received</p>
+            <h4>Transaction No.</h4>
+            <p>The table no. of the transaction</p>
+            <h4>Transaction Name</h4>
+            <p>The name of the transaction</p>
+            <h4>Full Error</h4>
+            <p>The full error information that is logged (this is the additional information that is displayed on the device when the <i>Error Key</i> is pressed</p>
+            </br>
+            <div class="cleared"></div>
+        </div>
+    </div>
+    <div class="seperator"></div>
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Use cost accounting in Microsoft Dynamics 365 Business Central/get-started-with-cost-accounting-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-8.5%" y="-6.0%" width="117.0%" height="111.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0980113636 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-cost-accounting-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -860.000000)">
+            <g id="Use-cost-accounting-in-Microsoft-Dynamics-365-Business-Central/get-started-with-cost-accounting-in-dynamics-365-business-central" transform="translate(50.000000, 860.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Book" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(25.000000, 15.000000)">
+                            <path d="M0.832518557,55.6124645 L0.832518557,61.6124645 C0.839673316,62.8067453 1.6709668,63.6146507 2.83251856,63.6124645 L46.8325186,63.6124645 L46.8325186,55.6124645 L0.832518557,55.6124645 Z" id="Shape" fill="#BE9555" fill-rule="nonzero"></path>
+                            <path d="M2.83251856,56.6124645 L2.83251856,60.6124645 C2.86672747,61.717521 3.75260508,62.6147293 4.78807411,62.6124645 L46.8325186,62.6124645 L46.8325186,56.6124645 L2.83251856,56.6124645 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <polygon id="Shape" fill="#4F4D52" fill-rule="nonzero" opacity="0.2" points="2.83251856 56.6124645 2.83251856 57.6124645 46.8325186 57.6124645 46.8325186 56.6124645"></polygon>
+                            <polygon id="Shape" fill="#4F4D52" fill-rule="nonzero" opacity="0.2" points="20.8325186 56.6124645 26.8325186 62.6124645 20.8325186 62.6124645"></polygon>
+                            <polygon id="Shape" fill="#EF6F59" fill-rule="nonzero" points="21.8325186 66.6124645 17.8325186 64.6124645 14.8325186 66.6124645 14.8325186 56.6124645 21.8325186 56.6124645"></polygon>
+                            <polygon id="Shape" fill="#F7CB64" fill-rule="nonzero" points="46.8325186 55.6124645 0.832518557 55.6124645 0.832518557 0.612464493 46.8325186 0.612464493"></polygon>
+                            <path d="M23.8325186,51.6124645 C23.8325186,52.7164645 22.9384486,53.6124645 21.8325186,53.6124645 L0.832518557,53.6124645 L0.832518557,55.6124645 L46.8325186,55.6124645 L46.8325186,3.61246449 L25.8325186,3.61246449 C24.7265885,3.61246449 23.8325186,4.50746449 23.8325186,5.61246449 L23.8325186,51.6124645 Z" id="Fill-361" fill-opacity="0.126868207" fill="#000000" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <g id="Coin-Money" mask="url(#mask-2)">
+                        <g transform="translate(35.000000, 31.000000)">
+                            <path d="M13.5,0 C6.04420313,0 0,6.04420312 0,13.5 C0,20.9557969 6.04420313,27 13.5,27 C20.9557969,27 27,20.9557969 27,13.5 C27,6.04420312 20.9557969,0 13.5,0" id="Fill-21" fill="#CFAA54"></path>
+                            <path d="M11.0360724,26.745133 L20.7,2.52535155 C19.602749,1.82026356 18.3966202,1.26911209 17.1112691,0.9 L7.3975195,25.5447353 C8.78059237,26.1897304 9.99344332,26.589863 11.0360724,26.745133 Z" id="Fill-22" fill="#B59448" opacity="0.806059338"></path>
+                            <path d="M13.8429067,27 C21.1093227,27 27,21.005868 27,13.6118362 C27,9.62802074 25.2879332,6.05254425 22.5738716,3.6 L13.5,26.991214 C13.6143022,26.9941427 13.7277822,27 13.8429067,27" id="Fill-23" fill="#B59448" opacity="0.811918713"></path>
+                            <path d="M13.5,3.47142857 C7.97007857,3.47142857 3.47142857,7.97007857 3.47142857,13.5 C3.47142857,19.0299214 7.97007857,23.5285714 13.5,23.5285714 C19.0299214,23.5285714 23.5285714,19.0299214 23.5285714,13.5 C23.5285714,7.97007857 19.0299214,3.47142857 13.5,3.47142857 Z M13.5,25.2 C7.04828571,25.2 1.8,19.9512964 1.8,13.5 C1.8,7.04828571 7.04828571,1.8 13.5,1.8 C19.9517143,1.8 25.2,7.04828571 25.2,13.5 C25.2,19.9512964 19.9517143,25.2 13.5,25.2 L13.5,25.2 Z" id="Fill-24" fill="#BE9C4F"></path>
+                        </g>
+                    </g>
+                    <g id="Dynamics-icon" mask="url(#mask-2)" fill="#F7CB64">
+                        <g transform="translate(45.000000, 38.000000)" id="Path">
+                            <polygon points="0 13.7222222 2.88888889 6.07885179 0 4.33333333"></polygon>
+                            <polygon points="8.66666667 8.82688051 8.66666667 4.33333333 0 13.7222222"></polygon>
+                            <polygon points="0 0 0 3.32823664 5.42361983 5.77777778 7.94444444 3.88954261"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

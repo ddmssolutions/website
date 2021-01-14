@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="118px" viewBox="0 0 100 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Get started with Trade in Microsoft Dynamics 365 Business Central/get-started-with-trade-in-microsoft-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7425,1.49663266 C44.3745,0.498877554 46.1865,0 48,0 C49.8135,0 51.627,0.498877554 53.256,1.49663266 L90.591,24.3316189 C93.933,26.3773408 96,30.2031485 96,34.3529027 L96,79.6470973 C96,83.7952317 93.933,87.6242789 90.591,89.6683811 L53.256,112.504987 C51.627,113.501122 49.8135,114 48,114 C46.1865,114 44.3745,113.501122 42.7425,112.504987 L5.409,89.6683811 C2.0655,87.6242789 0,83.7952317 0,79.6470973 L0,34.3529027 C0,30.2031485 2.0655,26.3773408 5.409,24.3316189 L42.7425,1.49663266 Z" id="path-1"></path>
+        <polygon id="path-3" points="0 4.03035263 0 26.0303526 12 26.0303526 12 4.03035263"></polygon>
+        <filter x="-8.3%" y="-4.5%" width="116.7%" height="118.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0975743007 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="12 12 0 12 0 26.5 12 26.5"></polygon>
+        <filter x="-8.3%" y="-6.9%" width="116.7%" height="127.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0975743007 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="0 5.03035263 0 23.0303526 12 23.0303526 12 5.03035263"></polygon>
+        <filter x="-8.3%" y="-5.6%" width="116.7%" height="122.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0975743007 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-9" points="0 8.03035263 0 31.0303526 12 31.0303526 12 8.03035263"></polygon>
+        <filter x="-8.3%" y="-4.3%" width="116.7%" height="117.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0975743007 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Get-started-with-Trade-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -50.000000)">
+            <g id="Get-started-with-Trade-in-Microsoft-Dynamics-365-Business-Central/get-started-with-trade-in-microsoft-dynamics-365-business-central" transform="translate(50.000000, 50.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Trophy-1" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Lines" mask="url(#mask-2)" fill="#1D8E96">
+                        <g transform="translate(10.500000, 35.000000)">
+                            <polygon id="Fill-854" points="0 30 75 30 75 28 0 28"></polygon>
+                            <polygon id="Fill-855" points="0 44 75 44 75 42 0 42"></polygon>
+                            <polygon id="Fill-856" points="0 16 75 16 75 14 0 14"></polygon>
+                            <polygon id="Fill-857" points="0 2 75 2 75 0 0 0"></polygon>
+                        </g>
+                    </g>
+                    <g id="4" mask="url(#mask-2)">
+                        <g transform="translate(67.500000, 30.054350)">
+                            <polygon id="Path" fill="#3E5162" fill-rule="evenodd" points="9 42.2738011 9 44.2451787 3 44.2451787 3 42.2738011 5.01431123 42.2738011 5.01431123 2.16408921 3 2.16408921 3 0.192711659 9 0.192711659 9 2.16408921 6.98568877 2.16408921 6.98568877 42.2738011"></polygon>
+                            <g id="Fill-860" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <polyline id="Fill-862" fill="#69994E" fill-rule="evenodd" points="6 4.03035263 6 26.0303526 12 26.0303526 12 4.03035263"></polyline>
+                        </g>
+                    </g>
+                    <g id="3" mask="url(#mask-2)">
+                        <g transform="translate(50.500000, 49.579705)">
+                            <polygon id="Path" fill="#3E5162" fill-rule="evenodd" points="9 28.5353344 9 30.5067119 3 30.5067119 3 28.5353344 5.01431123 28.5353344 5.01431123 2.42562246 3 2.42562246 3 0.454244915 9 0.454244915 9 2.42562246 6.98568877 2.42562246 6.98568877 28.5353344"></polygon>
+                            <g id="Fill-859" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#DF5142" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <polyline id="Fill-863" fill="#C2423D" fill-rule="evenodd" points="6 12 6 26.5 12 26.5 12 12"></polyline>
+                        </g>
+                    </g>
+                    <g id="2" mask="url(#mask-2)">
+                        <g transform="translate(33.500000, 38.054350)">
+                            <polygon id="Path" fill="#3E5162" fill-rule="evenodd" points="9 32.2738011 9 34.2451787 3 34.2451787 3 32.2738011 5.01431123 32.2738011 5.01431123 2.16408921 3 2.16408921 3 0.192711659 9 0.192711659 9 2.16408921 6.98568877 2.16408921 6.98568877 32.2738011"></polygon>
+                            <g id="Fill-860" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <polyline id="Fill-862" fill="#69994E" fill-rule="evenodd" points="6 5.03035263 6 23.0303526 12 23.0303526 12 5.03035263"></polyline>
+                        </g>
+                    </g>
+                    <g id="1" mask="url(#mask-2)">
+                        <g transform="translate(16.500000, 42.945650)">
+                            <polygon id="Path" fill="#3E5162" fill-rule="evenodd" points="9 38.449586 9 40.4209636 3 40.4209636 3 38.449586 5.01431123 38.449586 5.01431123 2.33987408 3 2.33987408 3 0.368496533 9 0.368496533 9 2.33987408 6.98568877 2.33987408 6.98568877 38.449586"></polygon>
+                            <g id="Fill-860" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            </g>
+                            <polyline id="Fill-862" fill="#69994E" fill-rule="evenodd" points="6 8.03035263 6 31.0303526 12 31.0303526 12 8.03035263"></polyline>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Hex" stroke="#1D8E96" stroke-width="4">
+                    <path d="M45.5618501,3.25844398 L45.5621963,3.25823359 L6.67338401,26.8942953 C3.79673288,28.6432593 2,31.9508238 2,35.5582677 L2,82.4417323 C2,86.0486597 3.79764663,89.3586805 6.67318764,91.1055853 L45.560618,114.742485 C46.9289662,115.572418 48.4546283,116 50,116 C51.5458817,116 53.0723633,115.572188 54.4362178,114.743457 L93.3268764,91.1055464 C96.2016145,89.3583456 98,86.0476286 98,82.4417323 L98,35.5582677 C98,31.9518547 96.202529,28.6435953 93.3268966,26.8944659 L54.4351916,3.25759524 C53.0721095,2.42798656 51.5462432,2 50,2 C48.4542664,2 46.9292165,2.42775755 45.5618501,3.25844398 Z" id="Azure-Hex-Border"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

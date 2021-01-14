@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Set up fixed assets management in Microsoft Dynamics 365 Business Central/create-fixed-asset-classes-subclasses-and-locations-in-dynamics-365-business-central</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="94.3396226" height="94.3396226" rx="47.1698113"></rect>
+        <filter x="-2.9%" y="-2.9%" width="106.4%" height="106.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0.5" dy="0.5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0.5" dy="0.5" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.821822822   0 0 0 0 0.831640661   0 0 0 0 0.835737288  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="77.8299825%" y1="11.1997378%" x2="-99.6885927%" y2="253.807911%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+        <path d="M48.1132075,0.739331515 C74.2770768,0.739331515 95.4870836,21.9493383 95.4870836,48.1132075 C95.4870836,74.2770768 74.2770768,95.4870836 48.1132075,95.4870836 C21.9493383,95.4870836 0.739331515,74.2770768 0.739331515,48.1132075 C0.739331515,21.9493383 21.9493383,0.739331515 48.1132075,0.739331515 Z M48.1132075,4.71698113 C24.1461335,4.71698113 4.71698113,24.1461335 4.71698113,48.1132075 C4.71698113,72.0802816 24.1461335,91.509434 48.1132075,91.509434 C72.0802816,91.509434 91.509434,72.0802816 91.509434,48.1132075 C91.509434,24.1461335 72.0802816,4.71698113 48.1132075,4.71698113 Z" id="path-6"></path>
+        <filter x="-25.9%" y="-29.2%" width="151.9%" height="154.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0.179476351%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#008078" offset="0%"></stop>
+            <stop stop-color="#00675F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#E8F6FE" offset="0%"></stop>
+            <stop stop-color="#B6E5F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#E8F6FE" offset="0%"></stop>
+            <stop stop-color="#B6E5F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.5565878%" id="linearGradient-12">
+            <stop stop-color="#14C2D2" offset="0%"></stop>
+            <stop stop-color="#0396A4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#E8F6FE" offset="0%"></stop>
+            <stop stop-color="#B6E5F9" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.9%" y="-10.9%" width="121.7%" height="121.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0964956975 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="2.04550253%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#FFE02A" offset="0%"></stop>
+            <stop stop-color="#FFB518" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#D48E15" offset="0%"></stop>
+            <stop stop-color="#996A20" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Set-up-fixed-assets-management-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-159.000000, -699.000000)">
+            <g id="Set-up-fixed-assets-management-in-Microsoft-Dynamics-365-Business-Central/create-fixed-asset-classes-subclasses-and-locations-in-dynamics-365-business-central" transform="translate(160.000000, 700.000000)">
+                <g id="Badge-Plates/Circle">
+                    <g id="BG" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                            <rect stroke="#F2F1F0" stroke-width="2.5" x="-1.25" y="-1.25" width="96.8396226" height="96.8396226" rx="48.4198113"></rect>
+                        </g>
+                        <g id="Colors/Dynamics-365/BG-Solid-Badges" mask="url(#mask-2)">
+                            <g id="Rectangle">
+                                <use fill="#01B6C3" xlink:href="#path-5"></use>
+                                <use fill-opacity="0.4" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border" transform="translate(1.886792, 1.886792)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Boarder" fill="#0078D4" fill-rule="nonzero" xlink:href="#path-6"></use>
+                        <g id="Colors/Dynamics-365/Border" mask="url(#mask-7)" fill="#008372">
+                            <g transform="translate(-1.886792, -1.886792)" id="Rectangle">
+                                <rect x="0" y="0" width="100" height="100"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" filter="url(#filter-8)" transform="translate(23.000000, 22.000000)">
+                    <polygon id="Path" fill="url(#linearGradient-9)" points="6 48 6 25.5708866 26.8527352 4 48 25.8755595 48 48"></polygon>
+                    <circle id="Oval" fill="url(#linearGradient-10)" cx="27" cy="21" r="5"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-11)" x="22" y="30" width="10" height="18"></rect>
+                    <polyline id="Path-143" stroke="url(#linearGradient-12)" stroke-width="5" points="0 28 27.0390543 2 54 27.924893"></polyline>
+                    <polyline id="Path-144" fill="url(#linearGradient-13)" points="38 9.07131354 38 -4.22772928e-13 46 -4.22772928e-13 46 16.8870506"></polyline>
+                </g>
+                <g id="Coin-Money" filter="url(#filter-14)" transform="translate(58.000000, 53.000000)">
+                    <path d="M0,11.5 C0,17.8512344 5.14876563,23 11.5,23 C17.8512344,23 23,17.8512344 23,11.5 C23,5.14876562 17.8512344,0 11.5,0 C5.14876563,0 0,5.14876562 0,11.5 Z" id="Fill-21" fill="url(#linearGradient-15)"></path>
+                    <path d="M11.5,3 C6.81295833,3 3,6.81295833 3,11.5 C3,16.1870417 6.81295833,20 11.5,20 C16.1870417,20 20,16.1870417 20,11.5 C20,6.81295833 16.1870417,3 11.5,3 Z M2,11.5 C2,6.26142857 6.26142857,2 11.5,2 C16.7385714,2 21,6.26142857 21,11.5 C21,16.7382321 16.7385714,21 11.5,21 C6.26142857,21 2,16.7382321 2,11.5 Z" id="Fill-24" fill="#FFD80B"></path>
+                </g>
+                <path d="M69.5009839,58 C68.5350737,58.0281544 67.6207862,58.4470475 66.9632583,59.1626929 C66.3057304,59.8783383 65.9600176,60.8308143 66.0036869,61.8064156 C66.0036869,63.4703629 68.0913042,67.3637823 69.0382646,69.6911335 C69.1148713,69.8780937 69.295378,70 69.4956034,70 C69.6958288,70 69.8763355,69.8780937 69.9529423,69.6911335 C70.9106636,67.3420313 72.9982808,63.4159856 72.9982808,61.8064156 C73.0590619,59.7843667 71.5007476,58.0883163 69.5009839,58 Z M69.5103311,62.9999643 C68.9017842,63.0041469 68.3510207,62.6402311 68.1162037,62.0787974 C67.8813866,61.5173637 68.0090594,60.869695 68.4393772,60.4393772 C68.869695,60.0090594 69.5173637,59.8813866 70.0787974,60.1162037 C70.6402311,60.3510207 71.0041469,60.9017842 70.9999643,61.5103311 C70.9999643,61.9054064 70.8430213,62.2843004 70.5636608,62.5636608 C70.2843004,62.8430213 69.9054064,62.9999643 69.5103311,62.9999643 L69.5103311,62.9999643 Z" id="Location-Pin" fill="url(#linearGradient-16)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

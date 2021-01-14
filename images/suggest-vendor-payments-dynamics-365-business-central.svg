@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Process customer and vendor payments in Microsoft Dynamics 365 Business Central/suggest-vendor-payments-in-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-9.8%" y="-7.1%" width="119.5%" height="114.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M29.6613191,14 L40.1294043,14 L26.1719574,0 L26.1719574,10.5 C26.1719574,12.425 27.7421702,14 29.6613191,14" id="path-4"></path>
+        <filter x="-7.2%" y="-7.1%" width="114.3%" height="128.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-customer-and-vendor-payments-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -660.000000)">
+            <g id="Process-customer-and-vendor-payments-in-Microsoft-Dynamics-365-Business-Central/suggest-vendor-payments-in-business-central" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Report-Sheer" mask="url(#mask-2)">
+                        <g transform="translate(27.000000, 19.000000)">
+                            <g id="Group-12" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Paper-Certified" filter="url(#filter-3)">
+                                    <path d="M0.00174468085,3.5 L0.00174468085,52.5 C0.00174468085,54.425 1.57195745,56 3.49110638,56 L36.6400426,56 C38.5600638,56 40.1294043,54.425 40.1294043,52.5 L40.1294043,14 L26.1719574,0 L3.49110638,0 C1.57195745,0 0.00174468085,1.575 0.00174468085,3.5 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                    <g id="Fill-2">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use fill="#C4CBCD" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                </g>
+                            </g>
+                            <polygon id="Path-31" fill="#E6E6E6" fill-rule="nonzero" points="38 14 39.9937563 14 39.9870137 15.9908556"></polygon>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="7" y="25" width="27" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle" fill="#D8D8D8" fill-rule="nonzero" x="7" y="31" width="27" height="3" rx="1.5"></rect>
+                        </g>
+                    </g>
+                    <path d="M63,78 C57.4769231,78 53,73.5223077 53,68 C53,62.4776923 57.4769231,58 63,58 C68.5230769,58 73,62.4776923 73,68 C73,73.5223077 68.5230769,78 63,78 Z" id="Fill-25" fill="#7CB65A" mask="url(#mask-2)"></path>
+                    <path d="M67.6336267,64.3905163 C67.1451289,63.8698279 66.3526493,63.8698279 65.864777,64.3905163 L61.7416309,68.7853661 L60.2523695,67.2119672 C60.2167173,67.1586316 60.1804396,67.1052961 60.1347798,67.0572941 C59.646282,66.5366057 58.8538023,66.5366057 58.3659301,67.0572941 C57.8818107,67.5713155 57.8786833,68.4046835 58.3527951,68.9267053 L58.3377836,68.9427059 L60.8609589,71.6094837 C61.3494566,72.1301721 62.1419363,72.1301721 62.6304341,71.6094837 L67.6298738,66.2792616 C67.6311248,66.2785949 67.6323757,66.2772616 67.6336267,66.2759282 C68.1221244,65.7552398 68.1221244,64.9098712 67.6336267,64.3905163" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    <g id="Graph" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(34.000000, 58.000000)">
+                            <rect id="Blue" fill="#55B7D9" x="0" y="0" width="3" height="13"></rect>
+                            <rect id="Red" fill="#DF5142" x="4" y="6" width="3" height="7"></rect>
+                            <rect id="Red" fill="#F7CB64" x="12" y="8" width="3" height="5"></rect>
+                            <rect id="Green" fill="#7CB65A" x="8" y="3" width="3" height="10"></rect>
+                        </g>
+                    </g>
+                    <g id="Coin-Money" mask="url(#mask-2)">
+                        <g transform="translate(33.000000, 25.000000)">
+                            <path d="M7,0 C3.13403125,0 0,3.13403125 0,7 C0,10.8659688 3.13403125,14 7,14 C10.8659688,14 14,10.8659688 14,7 C14,3.13403125 10.8659688,0 7,0" id="Fill-21" fill="#F7CB64"></path>
+                            <path d="M5.91467073,14 L11,1.81754542 C10.4226072,1.46288894 9.78792091,1.18566193 9.11154645,1 L4,13.3962047 C4.72779735,13.7206347 5.36602093,13.9218998 5.91467073,14 Z" id="Fill-22" fill="#F2BE53"></path>
+                            <path d="M7.1778035,14 C10.9455747,14 14,10.9260862 14,7.13427499 C14,5.09129269 13.1122617,3.257715 11.7049705,2 L7,13.9954944 C7.05926783,13.9969962 7.11810928,14 7.1778035,14" id="Fill-23" fill="#F2BE53"></path>
+                            <path d="M7,1.85714286 C4.16414286,1.85714286 1.85714286,4.16414286 1.85714286,7 C1.85714286,9.83585714 4.16414286,12.1428571 7,12.1428571 C9.83585714,12.1428571 12.1428571,9.83585714 12.1428571,7 C12.1428571,4.16414286 9.83585714,1.85714286 7,1.85714286 Z M7,13 C3.69142857,13 1,10.3083571 1,7 C1,3.69142857 3.69142857,1 7,1 C10.3085714,1 13,3.69142857 13,7 C13,10.3083571 10.3085714,13 7,13 L7,13 Z" id="Fill-24" fill="#EFB252"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

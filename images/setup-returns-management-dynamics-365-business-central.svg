@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Return items in Microsoft Dynamics 365 Business Central/set-up-returns-management-in-dynamics-365-business-central</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-8.0%" y="-9.3%" width="116.0%" height="118.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0992980072 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M17.0409154,3.20707259 C21.3448304,5.69193905 22.8194605,11.1953338 20.3345941,15.4992487 C17.8497276,19.8031637 12.3463329,21.2777939 8.04241793,18.7929274 C3.73850297,16.3080609 2.2638728,10.8046662 4.74873926,6.50075126 C5.22420061,5.67722805 5.81017654,4.95729081 6.47711798,4.34885721 C9.29576039,1.7774819 13.5605237,1.19766748 17.0409154,3.20707259 Z" id="path-4"></path>
+        <filter x="-13.9%" y="-13.9%" width="127.8%" height="138.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M9.3185552,5.81952757 C9.41039531,5.907335 9.47746864,6.01821396 9.51290482,6.14080707 C9.62330972,6.52275794 9.40615479,6.92275991 9.02787571,7.03423647 L2.45526046,8.97114639 C2.32995866,9.00807207 2.19702573,9.00958434 2.07093177,8.97551857 C1.69026121,8.87267595 1.4642357,8.47771567 1.56608967,8.09335011 L3.30420814,1.53422548 C3.3348997,1.41840496 3.39373352,1.31214966 3.47537646,1.22509137 C3.74631921,0.936177051 4.19792151,0.923740195 4.48405842,1.19731287 L9.3185552,5.81952757 Z" id="path-6"></path>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M70.5,74 C64.7007692,74 60,69.2984231 60,63.5 C60,57.7015769 64.7007692,53 70.5,53 C76.2992308,53 81,57.7015769 81,63.5 C81,69.2984231 76.2992308,74 70.5,74 Z" id="path-8"></path>
+        <filter x="-4.8%" y="-4.8%" width="109.5%" height="119.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Return-items-in-Microsoft-Dynamics-365-Business-Central" transform="translate(-50.000000, -660.000000)">
+            <g id="Return-items-in-Microsoft-Dynamics-365-Business-Central/set-up-returns-management-in-dynamics-365-business-central" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Return-items-in-Microsoft-Dynamics-365-Business-Central/manage-returns-to-vendors-in-dynamics-365-business-central" mask="url(#mask-2)">
+                        <g transform="translate(22.000000, 25.000000)" id="Mask">
+                            <g>
+                                <g id="Paper-Box" filter="url(#filter-3)" transform="translate(0.000000, -0.000000)">
+                                    <path d="M49.0833333,5 L0.0833333333,5 L4.98409896,1 C5.65784896,0.45 6.89816146,0 7.74034896,0 L41.427849,0 C42.2700365,0 43.510349,0.45 44.184099,1 L49.0833333,5" id="Fill-680" fill="#CC9547"></path>
+                                    <path d="M49.0825677,41.48 C49.0825677,42.316 48.393516,43 47.5513416,43 L1.61455941,43 C0.771619454,43 0.0833333333,42.316 0.0833333333,41.48 L0.0840989464,5 L49.0833333,5 L49.0825677,41.48" id="Fill-681" fill="#F2BE53"></path>
+                                    <polyline id="Fill-682" fill="#EFB252" points="36.0833333 5 15.0833333 5 17.7083333 0 33.4583333 0 36.0833333 5"></polyline>
+                                    <path d="M47.5513416,43 C48.393516,43 49.0825677,42.2875 49.0825677,41.4166667 L49.0833333,5 L26.8797896,5 C25.6111688,5 24.5829505,6.06083333 24.5829505,7.375 L24.5829505,39.0416667 C24.5829505,40.3558333 23.5547322,41.4166667 22.2861114,41.4166667 L0.0833333333,41.4166667 C0.0833333333,42.2875 0.771619454,43 1.61455941,43 L47.5513416,43" id="Fill-683" fill="#EFB252"></path>
+                                    <path d="M15.0833333,5 L15.0833333,18.4963189 C15.0833333,18.9241561 15.3983333,19.0641756 15.7833333,18.8074733 L17.8833333,17.4072788 C18.2683333,17.1505765 18.8983333,17.1505765 19.2833333,17.4072788 L21.3833333,18.8074733 C21.7683333,19.0641756 22.3983333,19.0641756 22.7833333,18.8074733 L24.8833333,17.4072788 C25.2683333,17.1505765 25.8983333,17.1505765 26.2833333,17.4072788 L28.3833333,18.8074733 C28.7683333,19.0641756 29.3983333,19.0641756 29.7833333,18.8074733 L31.8833333,17.4072788 C32.2683333,17.1505765 32.8983333,17.1505765 33.2833333,17.4072788 L35.3833333,18.8074733 C35.7683333,19.0641756 36.0833333,18.9241561 36.0833333,18.4963189 L36.0833333,5 L15.0833333,5" id="Fill-684" fill="#F7CB64"></path>
+                                    <path d="M25.0833333,5 C25.0978526,5.01938047 25.0982583,6.39000983 25.0982583,7.81812401 L25.0982583,17.0234383 C25.3637088,17.0234383 25.6300747,17.1008662 25.831451,17.2385158 L28.0282829,18.7870733 C28.4310354,19.0709756 29.090085,19.0709756 29.4928375,18.7870733 L31.6896695,17.2385158 C32.092422,16.9546136 32.7514716,16.9546136 33.1542241,17.2385158 L35.351056,18.7870733 C35.7538085,19.0709756 36.0833333,18.9161198 36.0833333,18.4429494 L36.0833333,5 L27.8442982,5 L25.0833333,5 Z" id="Fill-685" fill="#F2BE53"></path>
+                                </g>
+                                <g id="Group" transform="translate(12.541667, 13.000000)">
+                                    <path d="M17.2907902,1.47531095 C22.3120243,4.51236996 24.0324262,11.2387413 21.1334153,16.4990818 C18.2344044,21.7594223 11.8137773,23.5617481 6.79254314,20.5246891 C1.77130902,17.48763 0.0509071505,10.7612587 2.94991802,5.50091821 C5.8489289,0.240577699 12.2695561,-1.56174806 17.2907902,1.47531095 Z" id="Circle" fill-rule="nonzero"></path>
+                                    <g id="Circle" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use stroke="#FFFFFF" stroke-width="3" xlink:href="#path-4"></use>
+                                    </g>
+                                    <rect id="Rectangle" fill="#F2BE53" x="0.541666667" y="7" width="6" height="5"></rect>
+                                    <g id="Path-44" fill-rule="nonzero">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                        <use fill="#FFFFFF" xlink:href="#path-6"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <circle id="Oval" fill="#01B6C3" mask="url(#mask-2)" cx="70.5" cy="63.5" r="12.5"></circle>
+                    <g id="Fill-25" mask="url(#mask-2)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                        <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    </g>
+                    <path d="M75.5969894,59.6398577 C75.0596418,59.0830104 74.1879142,59.0830104 73.6512547,59.6398577 L69.115794,64.3399054 L67.4776065,62.6572427 C67.438389,62.6002032 67.3984836,62.5431638 67.3482578,62.4918284 C66.8109102,61.9349811 65.9391826,61.9349811 65.4025231,62.4918284 C64.8699917,63.0415457 64.8665516,63.9327866 65.3880746,64.4910598 L65.371562,64.5081716 L68.1470548,67.3601423 C68.6844023,67.9169896 69.5561299,67.9169896 70.0934775,67.3601423 L75.5928612,61.6597659 C75.5942373,61.6590529 75.5956133,61.6576269 75.5969894,61.656201 C76.1343369,61.0993537 76.1343369,60.195279 75.5969894,59.6398577" id="Fill-26" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

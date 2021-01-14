@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+    <script async src="../../../../scripts/main.js"></script>
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+                <!-- <div>|</div>  This is menu across the topic of the page
+                <div>menu</div>
+                <div>test</div> -->
+            </div>
+            <!-- <div class=nav-bar-right>
+                <img src="../../images/search_icon.png" alt="search icon" height="15">
+                <label> Search </label><input id=searchBar></input>
+            </div> -->
+        </div>
+    </div>
+    <section>
+        <div class="body-main">
+            <div class="path-bar"><a href="../../../../index.html">Home</a> / <a href="../../../../topics.html">Learn</a> / <a href="../index.html">Labelling</a></div>
+            <div class="seperator"></div>
+            <div class="topic-overview">
+                <label class="topic-overview-header">Label Mapping</label></br>
+                <label class="topic-overview-info">15 minutes - Unit 3 of 4</label><br/></br>
+                <div class="topic-overview-description">
+                    <label>Label Mapping is the process of determining which fields, and the order, are sent to barcode printer</label>
+                    </br>
+                    </br>
+                    <label>After creating a Barcode Label click on the <i>Label Mapping</i> action in the menu. This will open the mapping page (and if no mapping has been started beforehand will add the required <i>Label Data</i> table.</label>
+                    </br>
+                    </br>
+                    <img id=initMapSmall src="./images/labelmap_initial.png" alt="Initial Mapping" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Clicking on <i>Add Fields</i> action in the menu will open up the Field list page for the currently selected table. From here you can select one or more fields to be added to the label mapping</label>
+                    </br>
+                    </br>
+                    <img id=addFieldsSmall src="./images/Adding Fields.gif" alt="Add Fields" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>The selected fields will be appended to fields underneath the selected table. The <b>Node Name</b> defaults however can be changed to a value that is expected by the printer. Note when a Field row is selected the properties box updates to show the <b>Field Type</b> and <b>Format String</b></label>
+                    </br>
+                    <label>The <b>Format String</b> should be constructed as per the standard Business Central <a href="https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-format-property">Format Property</a>. This formatting will be applied to the data as it is sent to the printer</label>
+                    </br>
+                    <img id=mapWFieldsSmall src="./images/labelmap_withfields.png" alt="Label Mapping with Fields" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>Additional tables releated to the existing can be added as to retrieve fields from those for use in the label data. Click <i>Add Table</i> from the menu and select the table to be added</label>
+                    </br>
+                    </br>
+                    <img id=addTableSmall src="./images/Add_Table.gif" alt="Adding a table" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    <label>After adding the table a <b>Table Releation</b> must set in order to link the two tables</label>
+                    </br>
+                    </br>
+                    <img id=AddTableLinkSmall src="./images/Add_Table_Link.gif" alt="Adding a Table Relation" class="img-small" onclick="zoomImage(this)">
+                    </br>
+                    </br>
+                    <label><b>Test Print</b></label>
+                    </br>
+                    <label>This opens a new page with randonly generated sample data that allows you to test the configuration of the label</label>
+                    <img id=testPrintSmall src="./images/test_print.png" alt="Test Print" class="img-small" onclick="zoomImage(this)">
+                    </br>
+
+                    <hr style="width: 100%;margin-left: -10px;">
+                    </br>
+                    <label class="nextUnit">Next unit: Barcode Printer Selection</label>
+                    </br>
+                    </br>
+                    <button class="startContBtn " onclick="document.location='./barcode_printers.html' ">&lt; Back</button>
+                    <button class="startContBtn" onclick="document.location = './barcode_printer_selection.html'">Continue ></button>
+                </div>
+
+            </div>
+            <div class="cleared"></div>
+        </div>
+        </div>
+        <div class="seperator"></div>
+    </section>
+    <div id="fullImageDiv" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="largeImage">
+        <div id="caption"></div>
+    </div>
+</body>
+
+</html>

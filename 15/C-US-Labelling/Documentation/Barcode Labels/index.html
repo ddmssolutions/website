@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+            </div>
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">Labelling</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Barcode Labels</h2>            
+            <p>The Barcode Label table is used to setup the various type of barcode label that you will print, you associate the Business Central data with the printers label format as well as configure how and where the data in Business Central is sent to the printers</p>
+        </br>
+            <h4>Code</h4>
+            <p>Unique identifier for use within Business Central</p>
+            </br>
+            <h4>Description</h4>
+            <p>Informational purposes only</p>
+        </br>
+            <h4>Type</h4>
+            <p>This reqpresents where the usage of the label and is used when setting up the other parts of the system, i.e. Container Type setup will only show you the Container labels.</p>
+        </br>
+            <h4>Print Method</h4>
+            <p>Determines the interface used and the output format of the label:</p>            
+            <li>Report - this will run the Report ID specified and output as per any other Business Central report</li>
+            <li>Loftware PAS - A text (.pas) file will be generated following the PAS format requirement of lofware. Loftware should be configured to monitor a directoty for these files and process / send them to the printers</li>
+            <li>Bartender DAT - A text (.dat) file will be generated following the Bartender requiremtns. Bartender should be configured to monitor for and process these files</li>        
+        </br>
+            <h4>Label Format File</h4>
+            <p></p>
+        </br>
+            <h4>Report ID</h4>
+            <p>The Object ID of the Business Central report that will be used if Print Method is Report</p>
+        </br>
+            <h4>Report Caption</h4>
+            <p>Informational purposes only</p>
+            </br>
+            <div class="cleared"></div>
+        </div>
+    </div>
+    <div class="seperator"></div>
+</body>
+
+</html>

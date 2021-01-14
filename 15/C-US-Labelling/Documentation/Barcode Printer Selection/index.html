@@ -1,0 +1,154 @@
+<html>
+
+<head>
+    <link rel='stylesheet' href="../../../../css/main.css">
+</head>
+
+<body>
+    <div class="body-header">
+        <div>
+
+            <div class="nav-bar-left"><img src="../../../../images/columbus_logo.png" alt="columbus logo"></div>
+            <div class="nav-bar">
+            </div>
+        </div>
+    </div>
+    <div class="body-main">
+        <div class="path-bar"> <a href="../../../../index.html">Home</a> / <a href="../../../../documentation.html">Docs</a> / <a href="../index.html">Labelling</a></div>
+        <div class="seperator"></div>
+        <div id="filterNResults">
+            <!-- <div class="filter-bar">Filter</div> THIS is the filter filter bar on the left-->
+            <div></div>
+            <h2>Barcode Printer Selection</h2>
+            <p>The printer selection is used to determine which printer a label is directed to based upon location, table, user, and the label being printed. </p>
+            <p>
+                When a printer is being determined the system wil first look for the most specific printer selection before looking for a more generic selection
+                <label>The selection hierarchy is as follows:</label>
+                    <table>
+                        <tr>
+                            <th>Location</th>
+                            <th>Table</th>
+                            <th>User</th>
+                            <th>Label</th>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                            <td>Specific</td>
+                            <td>Blank</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Specific</td>
+                        </tr>
+                        <tr>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                            <td>Blank</td>
+                        </tr>
+                    </table>
+            </p>
+            </br>
+            <h4>Location Code</h4>
+            <p>Looks up to the Business Central Locations. Blank denotes all locations</p>
+            </br>
+            <h4>Table Name</h4>
+            <p>To link a printer selection to a particular ADC Transaction specify the Table name of that transaction. Blank denotes all tables</p>
+            </br>
+            <h4>User ID</h4>
+            <p>Looks up to the User table. Blank denotes all users</p>
+            </br>
+            <h4>Label Code</h4>
+            <p>Barcode Label identifier. Blank denotes all labels</p>
+            </br>
+            <h4>Printer ID</h4>
+            <p>The printer to which the label will be sent</p>
+            </br>
+            <div class="cleared"></div>
+        </div>
+    </div>
+    <div class="seperator"></div>
+</body>
+
+</html>
